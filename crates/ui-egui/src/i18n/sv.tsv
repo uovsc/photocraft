@@ -1,0 +1,2733 @@
+# Swedish (sv) PhotoCraft interface catalog.
+# Columns separated by TAB: context, English source, Swedish translation.
+
+# Guide layout dialog
+	Columns	Kolumner
+	Rows	Rader
+	Number	Nummer
+	Margin	Marginal
+	Top:	Överst:
+	Left:	Vänster:
+	Bottom:	Nederst:
+	Right:	Höger:
+	Target:	Mål:
+	Selected Artboards	Utvalda ritytor
+	Center Columns	Mittkolumner
+	Clear Existing Guides	Rensa befintliga guider
+	Invalid guide layout	Ogiltig guidelayout
+	Leave empty for automatic size	Lämna tomt för automatisk storlek
+	5 Columns, 3 Rows	5 kolumner, 3 rader
+	8 Columns	8 kolumner
+	12 Columns	12 kolumner
+
+	File	Arkiv
+	Edit	Redigera
+	Image	Bild
+	Layer	Lager
+	Type	Typ
+	Select	Välj
+	Selected	Vald
+	Scope	Omfattning
+	Top Left	Överst till vänster
+	Top Right	Överst till höger
+	Bottom Left	Nederst till vänster
+	Bottom Right	Nederst till höger
+	Filter	Filtrera
+	View	Visa
+	Window	Fönster
+	Help	Hjälp
+	(coming soon)	(kommer snart)
+	New…	Nytt…
+	New from Clipboard	Nytt från Urklipp
+	Open…	Öppna…
+	Open As…	Öppna som…
+	Open EXR Parts…	Öppna EXR-delar…
+	Add beauty precomp from the AOVs	Lägg till skönhetsprekomp från AOV:erna
+	Both	Båda
+	Left	Vänster
+	Right	Rätt
+	Open Recent	Öppna Senaste
+	Clear Recent Files	Rensa de senaste filerna
+	Remove from Recent	Ta bort från Senaste
+	Remove {name} from Recent	Ta bort {name} från Recent
+	Close	Stäng
+	Minimize	Minimera
+	Maximize	Maximera
+	Restore	Återställ
+	Close All	Stäng alla
+	Close Others	Stäng andra
+	Save	Spara
+	Save As…	Spara som…
+	Save a Copy…	Spara en kopia…
+	Revert	Återgå
+	Export	Exportera
+	Quick Export as PNG	Snabbexport som PNG
+	Export As…	Exportera som…
+	Export Preferences…	Exportera inställningar…
+	Save for Web (Legacy)…	Spara för webben (legacy)…
+	Artboards to Files…	Ritytor till filer…
+	Artboards to PDF…	Rittavlor till PDF…
+	Layers to Files…	Lager till filer…
+	Layer Comps to Files…	Lagerkomper till filer…
+	Color Lookup Tables…	Färguppslagstabeller…
+	Data Sets as Files…	Datauppsättningar som filer…
+	Paths to Illustrator…	Sökvägar till Illustrator…
+	Render Video…	Rendera video…
+	Generate	Generera
+	Image Assets	Bildtillgångar
+	Place Embedded…	Placera inbäddad…
+	Place Linked…	Plats länkad…
+	Package…	Paket…
+	Automate	Automatisera
+	Batch…	Batchbearbetning…
+	Create Droplet…	Skapa droppe…
+	Crop and Straighten Photos	Beskär och räta ut foton
+	Contact Sheet II…	Kontaktblad II…
+	Conditional Mode Change…	Ändra villkorligt läge…
+	Fit Image…	Anpassa bild…
+	Lens Correction…	Linskorrigering…
+	Merge to HDR Pro…	Slå ihop till HDR Pro…
+	Photomerge…	Photomerge…
+	Scripts	Manus
+	Image Processor…	Bildprocessor…
+	Delete All Empty Layers	Ta bort alla tomma lager
+	Flatten All Layer Effects	Platta ut alla lagereffekter
+	Flatten All Masks	Platta ut alla masker
+	Script Events Manager…	Script Event Manager…
+	Import	Importera
+	Browse…	Bläddra…
+	Source Files	Källfiler
+	Use:	Använd:
+	Files	Filer
+	Folder	Mapp
+	Add Open Files	Lägg till öppna filer
+	Sort By Name	Sortera efter namn
+	Attempt to Automatically Align Source Images	Försök att automatiskt justera källbilder
+	Create Smart Object after Loading Layers	Skapa smarta objekt efter att ha laddat lager
+	Reveal in Finder	Avslöja i Finder
+	Show in Explorer	Visa i Explorer
+	Show in Folder	Visa i mapp
+	File Info…	Filinformation…
+	Print…	Skriv ut…
+	Print One Copy	Skriv ut ett exemplar
+	Exit	Avsluta
+	Undo	Ångra
+	Redo	Gör om
+	Toggle Last State	Växla Sista tillstånd
+	Fade…	Tona ut…
+	Cut	Klipp
+	Copy	Kopiera
+	Copy Merged	Kopia sammanfogad
+	Paste	Klistra in
+	Paste Special	Klistra in special
+	Paste in Place	Klistra in på plats
+	Paste Into	Klistra in i
+	Paste Outside	Klistra in utanför
+	Paste Lorem Ipsum	Klistra in Lorem Ipsum
+	Clear	Rensa
+	Search…	Sök…
+	Check Spelling…	Kontrollera stavningen…
+	Find and Replace Text…	Hitta och ersätt text…
+	Add to Dictionary	Lägg till i ordboken
+	No Spelling Suggestions	Inga stavningsförslag
+	Fill…	Fyll…
+	Stroke…	Kontur…
+	Content-Aware Fill…	Innehållsmedveten fyllning…
+	Delete and Fill Selection	Ta bort och fyll i urval
+	Content-Aware Scale	Innehållsmedveten skala
+	Puppet Warp	Marionettförvrängning
+	Perspective Warp	Perspektiv Warp
+	Free Transform	Gratis transformation
+	Free Transform a Copy	Omvandla en kopia gratis
+	Transform	Förvandla
+	Again	Återigen
+	Transform Again on a Copy	Förvandla igen på en kopia
+	Scale	Skala
+	Rotate	Rotera
+	Set horizontal skew	Ställ in horisontell snedställning
+	Set vertical skew	Ställ in vertikal snedställning
+	Skew	Skev
+	Distort	Förvränga
+	Perspective	Perspektiv
+	Warp	Varp
+	Flip Horizontal	Vänd horisontellt
+	Flip Vertical	Vänd vertikal
+	Rotate 180°	Vrid 180°
+	Rotate 90° Clockwise	Vrid 90° medurs
+	Rotate 90° Counter Clockwise	Rotera 90° moturs
+	180°	180°
+	90° Clockwise	90° medurs
+	90° Counter Clockwise	90° moturs
+	Arbitrary…	Godtyckligt…
+	Auto-Align Layers…	Autojustera lager…
+	Auto-Blend Layers…	Blanda lager automatiskt…
+	Define Brush Preset…	Definiera förinställning för borste…
+	Define Pattern…	Definiera mönster…
+	Define Custom Shape…	Definiera anpassad form…
+	Purge	Rensa
+	Clipboard	Urklipp
+	Histories	Historier
+	Video Cache	Videocache
+	All	Alla
+	Presets	Förinställningar
+	Preset Manager…	Förinställningshanterare…
+	Migrate Presets	Migrera förinställningar
+	Export/Import Presets…	Exportera/importera förinställningar…
+	Color Settings…	Färginställningar…
+	Assign Profile…	Tilldela profil…
+	Convert to Profile…	Konvertera till profil…
+	Keyboard Shortcuts…	Kortkommandon…
+	Menus…	Menyer…
+	Toolbar…	Verktygsfält…
+	Preferences	Inställningar
+	General…	Allmänt…
+	Interface…	Gränssnitt…
+	Workspace…	Arbetsyta…
+	Tools…	Verktyg…
+	History Log…	Historiklogg…
+	File Handling…	Filhantering…
+	Export…	Exportera…
+	Performance…	Prestanda…
+	Scratch Disks…	Skrapa skivor…
+	Cursors…	Markörer…
+	Transparency & Gamut…	Transparens och omfång…
+	Units & Rulers…	Enheter och linjaler…
+	Guides, Grid & Slices…	Guider, rutnät och skivor…
+	Plug-ins…	Insticksprogram…
+	Type…	Skriv…
+	Enhanced Controls…	Förbättrade kontroller…
+	Camera Raw…	Camera Raw…
+	Raw Defaults…	Rå standardvärden…
+	Integrations…	Integrationer…
+	AI Integrations…	AI-integrationer…
+	Install Plug-in…	Installera plugin…
+	Language Options	Språkalternativ
+	Settings…	Inställningar…
+	Mode	Läge
+	Bitmap	Bitmapp
+	Grayscale	Gråskala
+	Duotone	Duoton
+	Indexed Color	Indexerad färg
+	RGB Color	RGB-färg
+	CMYK Color	CMYK-färg
+	Lab Color	Lab färg
+	Multichannel	Flerkanaligt
+	8 Bits/Channel	8 bitar/kanal
+	8 bit	8 bit
+	Integer	Heltal
+	16 Bits/Channel	16 bitar/kanal
+	16 bit	16 bitar
+	32 Bits/Channel	32 bitar/kanal
+	32 bit (float)	32 bit (flyttal)
+	Floating point	Flyttal
+	Color Table…	Färgtabell…
+	Bitmap…	Bitmapp…
+	Duotone…	Duoton…
+	Indexed Color…	Indexerad färg…
+	Adjustments	Justeringar
+	Brightness/Contrast…	Ljusstyrka/kontrast…
+	Levels…	Nivåer…
+	Curves…	Kurvor…
+	Exposure…	Exponering…
+	Vibrance…	Lyster…
+	Hue/Saturation…	Nyans/mättnad…
+	Color Balance…	Färgbalans…
+	Black & White…	Svart och vitt…
+	Photo Filter…	Fotofilter…
+	Channel Mixer…	Kanalmixer…
+	Color Lookup…	Färguppslagning…
+	Invert	Invertera
+	Posterize…	Posterisera…
+	Threshold…	Tröskel…
+	Gradient Map…	Gradientkarta…
+	Selective Color…	Selektiv färg…
+	Shadows/Highlights…	Skuggor/höjdpunkter…
+	HDR Toning…	HDR-toning…
+	Desaturate	Minska färgmättnaden
+	Match Color…	Matcha färg…
+	Replace Color…	Byt ut färg…
+	Equalize	Utjämna
+	Auto Tone	Automatisk ton
+	Auto Contrast	Automatisk kontrast
+	Auto Color	Automatisk färg
+	Image Size…	Bildstorlek…
+	Canvas Size…	Kanvasstorlek…
+	Image Rotation	Bildrotation
+	Flip Canvas Horizontal	Vänd kanvas horisontellt
+	Flip Canvas Vertical	Vänd kanvas vertikalt
+	Crop	Beskär
+	Trim…	Trimma…
+	Reveal All	Visa allt
+	Duplicate…	Duplicera…
+	Apply Image…	Tillämpa bild…
+	Calculations…	Beräkningar…
+	Variables	Variabler
+	Define…	Definiera…
+	Data Sets…	Datauppsättningar…
+	Apply Data Set…	Tillämpa datamängd…
+	Variable Data Sets…	Variabeldatamängder…
+	Trap…	Fälla…
+	Analysis	Analys
+	Set Measurement Scale…	Ställ in mätskala…
+	Select Data Points…	Välj datapunkter…
+	Record Measurements	Registrera mätningar
+	Ruler Tool	Linjalverktyg
+	Count Tool	Räkneverktyg
+	Place Scale Marker…	Placera skalmarkör…
+	Custom…	Anpassad…
+	New	Nytt
+	Layer…	Lager…
+	Group…	Grupp…
+	Group from Layers…	Skapa grupp från lager…
+	Artboard…	Rityta…
+	Artboard from Group…	Rityta från grupp…
+	Artboard from Layers…	Rityta från lager…
+	Layer via Copy	Lager via kopiering
+	Layer via Cut	Lager via klippning
+	Layer From Background…	Lager från bakgrund…
+	Layer from Background…	Lager från bakgrund…
+	Background from Layer	Bakgrund från lager
+	Background From Layer	Bakgrund från lager
+	New Shape Layer	Nytt formlager
+	New Type Layer	Nytt textlager
+	New Fill Layer	Nytt fyllningslager
+	New Adjustment Layer	Nytt justeringslager
+	New Layer Based Slice	Nytt lagerbaserat segment
+	New Smart Object via Copy	Nytt smartobjekt via kopiering
+	New Blank Video Layer	Nytt tomt videolager
+	New Video Layer from File…	Nytt videolager från fil…
+	Duplicate Layer…	Duplicera lager…
+	Delete Layer	Ta bort lager
+	Delete	Ta bort
+	Rename Layer	Byt namn på lager
+	Create Layer	Skapa lager
+	Layer Style	Lagerstil
+	Blending Options…	Blandningsalternativ…
+	Bevel & Emboss…	Fasning och relief…
+	Use Global Light	Använd globalt ljus
+	Inner Shadow…	Inre skugga…
+	Inner Glow…	Inre glöd…
+	Satin…	Satin…
+	Color Overlay…	Färgöverlägg…
+	Gradient Overlay…	Övertoningsöverlägg…
+	Pattern Overlay…	Mönsteröverlägg…
+	Outer Glow…	Yttre glöd…
+	Drop Shadow…	Skugga…
+	Copy Layer Style	Kopiera lagerstil
+	Paste Layer Style	Klistra in lagerstil
+	Clear Layer Style	Rensa lagerstil
+	Global Light…	Globalt ljus…
+	Hide All Effects	Dölj alla effekter
+	Scale Effects…	Skaleffekter…
+	Smart Filter	Smart filter
+	Convert for Smart Filters	Konvertera för smartfilter
+	Clear Smart Filters	Rensa smarta filter
+	Disable Smart Filters	Inaktivera smarta filter
+	Delete Filter Mask	Ta bort filtermask
+	Disable Filter Mask	Inaktivera filtermask
+	Solid Color…	Enfärgad…
+	Gradient…	Övertoning…
+	Pattern…	Mönster…
+	Layer Mask	Lagermask
+	Vector Mask	Vektormask
+	Reveal Selection	Visa markering
+	Hide Selection	Dölj markering
+	Hide All	Göm alla
+	From Transparency	Från transparens
+	Delete Vector Mask	Ta bort vektormask
+	Enable Layer Mask	Aktivera lagermask
+	Disable Layer Mask	Inaktivera lagermask
+	Enable Vector Mask	Aktivera vektormask
+	Link Layer Mask	Länka lagermask
+	Unlink Layer Mask	Koppla från lagermask
+	Link Vector Mask	Länka vektormask
+	Add Vector Mask	Lägg till vektormask
+	Vector Mask from Current Path	Vektormask från aktuell bana
+	Create Clipping Mask	Skapa urklippsmask
+	Release Clipping Mask	Frigör urklippsmask
+	Smart Objects	Smarta objekt
+	Smart Object	Smartobjekt
+	Convert to Smart Object	Konvertera till smartobjekt
+	Convert to Embedded	Konvertera till inbäddat objekt
+	Convert to Layers	Konvertera till lager
+	Convert to Linked…	Konvertera till länkat objekt…
+	Edit Contents	Redigera innehåll
+	Replace Contents…	Byt ut innehåll…
+	Relink to File…	Länka om till fil…
+	Export Contents…	Exportera innehåll…
+	Update Modified Content	Uppdatera ändrat innehåll
+	Update All Modified Content	Uppdatera allt ändrat innehåll
+	Stack Mode	Stackningsläge
+	Entropy	Entropi
+	Kurtosis	Kurtosis
+	Maximum	Max
+	Mean	Medelvärde
+	Median	Median
+	Minimum	Min
+	Range	Spann
+	Skewness	Skevhet
+	Standard Deviation	Standardavvikelse
+	Summation	Summering
+	Variance	Varians
+	Video Layers	Videolager
+	Interpret Footage…	Tolka filmklipp…
+	Replace Footage…	Ersätt filmklipp…
+	Reload Frame	Ladda om bildruta
+	Show Altered Video	Visa ändrad video
+	Restore Frame	Återställ bildruta
+	Restore All Frames	Återställ alla bildrutor
+	Insert Blank Frame	Infoga tom bildruta
+	Delete Frame	Ta bort bildruta
+	Duplicate Frame	Duplicera bildruta
+	Frame from Layers	Bildruta från lager
+	Video Frames to Layers…	Videobildrutor till lager…
+	Rasterize	Rasterisera
+	Rasterize Type	Rasterisera text
+	Rasterize Type Layer	Rasterisera textlager
+	Rasterize Shape	Rasterisera formen
+	New Guide Layout…	Ny stödlinjelayout…
+	New Guides From Shape	Skapa stödlinjer från form
+	Lock Layers…	Lås lager…
+	Link Layers	Länka lager
+	Select Linked Layers	Markera länkade lager
+	Merge Layers	Slå samman lager
+	Merge Down	Sammanfoga nedåt
+	Merge Group	Slå samman grupp
+	Merge Visible	Sammanfoga synliga lager
+	Stamp Visible	Stämpla synliga lager
+	Select Layer Above	Markera lagret ovanför
+	Select Layer Below	Markera lagret nedanför
+	Select Top Layer	Markera översta lagret
+	Select Bottom Layer	Markera nedersta lagret
+	Add Layer Above to Selection	Lägg till lagret ovanför i markeringen
+	Add Layer Below to Selection	Lägg till lagret nedanför i markeringen
+	Stamp Down	Stämpla nedåt
+	Flatten Image	Platta till bilden
+	Matting	Mattning
+	Color Decontaminate…	Dekontaminera färger…
+	Remove Black Matte	Ta bort svart halo
+	Remove White Matte	Ta bort vit halo
+	Defringe…	Ta bort färgfransar…
+	Group Layers	Gruppera lager
+	Ungroup Layers	Dela upp lagergruppen
+	Hide Layers	Dölj lager
+	Arrange	Ordna
+	Bring to Front	Flytta längst fram
+	Bring Forward	Flytta framåt
+	Send Backward	Skicka bakåt
+	Send to Back	Flytta längst bak
+	Reverse	Omvänd
+	Combine Shapes	Kombinera former
+	Unite Shapes	Sammanfoga former
+	Subtract Front Shape	Subtrahera främre form
+	Intersect Shape Areas	Skär formområden
+	Exclude Overlapping Shapes	Uteslut överlappande former
+	Merge Shape Components	Slå samman formkomponenter
+	Align	Justera
+	Top Edges	Övre kanter
+	Vertical Centers	Vertikala mittpunkter
+	Bottom Edges	Nedre kanter
+	Left Edges	Vänsterkanter
+	Horizontal Centers	Horisontella mittpunkter
+	Right Edges	Högerkanter
+	Distribute	Dela ut
+	Vertically	Vertikalt
+	Horizontally	Horisontellt
+	Layer Edges	Lagerkanter
+	Isolate Layers	Isolera lager
+	Layer Content Options…	Alternativ för lagerinnehåll…
+	Fill Content	Fyll innehåll
+	Deselect Layers	Avmarkera lager
+	Find Layers	Hitta lager
+	Layer Comps	Lagerkompositioner
+	Layers	Lager
+	All Layers	Alla lager
+	Hidden Layers	Dolda lager
+	Mask All Objects	Maskera alla objekt
+	Subject	Motiv
+	Sky	Himmel
+	Panels	Paneler
+	Character Panel	Teckenpanelen
+	Paragraph Panel	Styckepanelen
+	Character Styles Panel	Panelen Teckenformat
+	Paragraph Styles Panel	Panelen Styckeformat
+	Glyphs Panel	Glyfpanelen
+	Anti-Alias	Kantutjämning
+	Sharp	Skarp
+	Crisp	Krispig
+	Strong	Stark
+	Smooth	Smidig
+	Windows LCD	Windows LCD
+	Windows	Windows
+	Orientation	Orientering
+	Horizontal	Horisontell
+	Vertical	Vertikal
+	OpenType	OpenType
+	Standard Ligatures	Standardligaturer
+	Contextual Alternates	Kontextuella alternativ
+	Discretionary Ligatures	Diskretionära ligaturer
+	Swash	Slingor
+	Oldstyle	Gammaldags siffror
+	Stylistic Alternates	Stilistiska alternativ
+	Titling Alternates	Rubrikvarianter
+	Ornaments	Ornament
+	Ordinals	Ordningstal
+	Fractions	Bråk
+	Create Work Path	Skapa arbetsväg
+	Convert to Shape	Konvertera till form
+	Warp Text…	Förvränga text…
+	Convert to Point Text	Konvertera till punkttext
+	Convert to Paragraph Text	Konvertera till stycketext
+	Default Features	Standardfunktioner
+	East Asian Features	Östasiatiska funktioner
+	Middle Eastern Features	Mellanösternfunktioner
+	Middle Eastern & South Asian Composer	Sättningsmotor för mellanöstern- och sydasiatiska språk
+	Update All Text Layers	Uppdatera alla textlager
+	Replace All Missing Fonts	Ersätt alla saknade teckensnitt
+	Resolve Missing Fonts…	Åtgärda saknade teckensnitt…
+	Font Preview Size	Förhandsgranskningsstorlek för teckensnitt
+	None	Ingen
+	Small	Liten
+	Medium	Medel
+	Large	Stor
+	Extra Large	Extra stor
+	Huge	Enorm
+	Load Default Type Styles	Ladda standardtypstilar
+	Save Default Type Styles	Spara standardtypstilar
+	Deselect	Avmarkera
+	Reselect	Välj igen
+	Inverse	Omvänt
+	Inverse Selection	Omvänt urval
+	Similar	Liknande
+	Color Range…	Färgomfång…
+	Focus Area…	Fokusområde…
+	Select and Mask…	Markera och maskera…
+# Select and Mask dialog labels
+	Smart Radius	Smart radie
+	Shift Edge	Skift kant
+	Decontaminate	Dekontaminera
+	Output	Utdata
+	Refine Edge	Förfina kant
+	Modify	Ändra
+	Border…	Kant…
+	Smooth…	Jämna ut…
+	Expand…	Utöka…
+	Contract…	Minska…
+	Feather…	Mjuka upp…
+	Grow	Utöka
+	Transform Selection	Förvandla urval
+	Edit in Quick Mask Mode	Redigera i snabbmaskläge
+	Load Selection…	Ladda markering…
+	Save Selection…	Spara markering…
+	Match All	Matcha alla
+	Last Filter	Senaste filter
+	Filter Gallery…	Filtergalleri…
+	Adaptive Wide Angle…	Adaptiv vidvinkel…
+	Camera Raw Filter…	Camera Raw-filter…
+	Liquify…	Gör flytande…
+	Vanishing Point…	Flyktpunkt…
+	Blur	Oskärpa
+	Blur Gallery	Oskärpegalleri
+	Field Blur…	Fältskärpa…
+	Iris Blur…	Iris oskärpa…
+	Tilt-Shift…	Tilt-Shift…
+	Path Blur…	Banoskärpa…
+	Spin Blur…	Rotationsoskärpa…
+	Blur More	Mer oskärpa
+	Box Blur…	Rutoskärpa…
+	Gaussian Blur…	Gaussisk oskärpa…
+	Lens Blur…	Linsoskärpa…
+	Motion Blur…	Rörelseoskärpa…
+	Radial Blur…	Radiell oskärpa…
+	Shape Blur…	Formoskärpa…
+	Smart Blur…	Smart oskärpa…
+	Surface Blur…	Ytoskärpa…
+	Average	Medelvärde
+	Displace…	Förskjut…
+	Pinch…	Nyp…
+	Polar Coordinates…	Polära koordinater…
+	Ripple…	Rippling…
+	Shear…	Skjuva…
+	Spherize…	Sfärisera…
+	Twirl…	Virvel…
+	Wave…	Våg…
+	ZigZag…	Sicksack…
+	Noise	Brus
+	Add Noise…	Lägg till brus…
+	Despeckle	Avfläcka
+	Dust & Scratches…	Damm och repor…
+	Median…	Median…
+	Reduce Noise…	Minska brus…
+	Pixelate	Pixelera
+	Color Halftone…	Färg Halvton…
+	Crystallize…	Kristallisera…
+	Facet	Fasettering
+	Fragment	Fragment
+	Mezzotint…	Mezzotint…
+	Mosaic…	Mosaik…
+	Pointillize…	Pointillisera…
+	Render	Rendera
+	Clouds	Moln
+	Difference Clouds	Differensmoln
+	Fibers…	Fibrer…
+	Flame…	Flamma…
+	Lens Flare…	Linsöverstrålning…
+	Lighting Effects…	Ljuseffekter…
+	Relight…	Ljussätt igen…
+	Picture Frame…	Bildram…
+	Tree…	Träd…
+	Sharpen	Skärpa
+	Sharpen Edges	Skärp kanter
+	Sharpen More	Skärpa mer
+	Smart Sharpen…	Smart skärpa…
+	Unsharp Mask…	Oskarp mask…
+	High Pass…	Högpass…
+	Stylize	Stilisera
+	Diffuse…	Diffus…
+	Emboss…	Relief…
+	Extrude…	Extrudera…
+	Find Edges	Hitta kanter
+	Oil Paint…	Oljefärg…
+	Solarize	Solarisera
+	Tiles…	Plattor…
+	Trace Contour…	Spåra kontur…
+	Wind…	Vind…
+	Video	Video
+	De-Interlace…	Avfläta…
+	NTSC Colors	NTSC-färger
+	Other	Annat
+	Maximum…	Maximera…
+	Minimum…	Minimera…
+	Offset…	Förskjutning…
+	Plug-ins	Insticksprogram
+	Proof Setup	Korrekturinställning
+	Proof Colors	Korrekturfärger
+	Gamut Warning	Varning för färgomfång
+	Working CMYK	Arbets-CMYK
+	Working Cyan Plate	Arbetsplåt för cyan
+	Working Magenta Plate	Arbetsplåt för magenta
+	Working Yellow Plate	Arbetsplåt för gult
+	Working Black Plate	Arbetsplåt för svart
+	Working CMY Plate	Arbetsplåt för CMY
+	Legacy Macintosh RGB	Äldre Macintosh RGB
+	Internet Standard RGB	Internet Standard RGB
+	Monitor RGB	Skärm-RGB
+	Color Blindness — Protanopia-type	Färgblindhet — Protanopia-typ
+	Color Blindness — Deuteranopia-type	Färgblindhet — Deuteranopia-typ
+	Zoom In	Zooma in
+	Zoom Out	Zooma ut
+	Fit on Screen	Anpassa till skärmen
+	Fit Layer(s) on Screen	Anpassa lager till skärmen
+	Fit Artboard on Screen	Anpassa rityta till skärmen
+	100%	100%
+	200%	200 %
+	Print Size	Utskriftsstorlek
+	Pixel Aspect Ratio	Pixelproportioner
+	Pixel Aspect Ratio Correction	Korrigering av pixelproportioner
+	Custom Pixel Aspect Ratio…	Anpassat bildförhållande för pixlar…
+	Square	Kvadrat
+	D1/DV NTSC (0.91)	D1/DV NTSC (0,91)
+	D1/DV NTSC Widescreen (1.21)	D1/DV NTSC bredbild (1.21)
+	D1/DV PAL (1.09)	D1/DV PAL (1,09)
+	D1/DV PAL Widescreen (1.46)	D1/DV PAL bredbild (1.46)
+	Anamorphic 2:1 (2)	Anamorphic 2:1 (2)
+	HDV 1080/DVCPRO HD 720 (1.33)	HDV 1080/DVCPRO HD 720 (1.33)
+	DVCPRO HD 1080/HDV 1080 (1.5)	DVCPRO HD 1080/HDV 1080 (1,5)
+	32-bit Preview Options…	32-bitars förhandsgranskningsalternativ…
+	Screen Mode	Skärmläge
+	Standard Screen Mode	Standard skärmläge
+	Full Screen Mode With Menu Bar	Helskärmsläge med menyrad
+	Full Screen Mode	Helskärmsläge
+	Cycle Screen Mode	Växla skärmläge
+	Show	Visa
+	Extras	Extrafunktioner
+	Selection Edges	Urval Kanter
+	Target Path	Målbana
+	Current Path	Aktuell bana
+	Grid	Rutnät
+	Guides	Stödlinjer
+	Canvas Guides	Kanvasstödlinjer
+	Artboard Guides	Ritytestödlinjer
+	Count	Räkna
+	Smart Guides	Smarta stödlinjer
+	Slices	Segment
+	Notes	Anteckningar
+	Pixel Grid	Pixelrutnät
+	Pixel Art	Pixelkonst
+	Pixel Art Preview	Förhandsvisning av pixelkonst
+	Pattern Preview	Förhandsgranskning av mönster
+	Brush Preview	Förhandsgranskning av borste
+	Mesh	Nät
+	Edit Pins	Redigera fästpunkter
+	Document Bounds	Dokumentgränser
+	Show Extras Options…	Visa extraalternativ…
+	Rulers	Linjaler
+	Snap	Fäst
+	Snap To	Fäst mot
+	Lock Guides	Lås stödlinjer
+	Clear Guides	Rensa stödlinjer
+	Clear Selected Artboard Guides	Rensa stödlinjer för markerad rityta
+	Clear Canvas Guides	Rensa kanvasstödlinjer
+	New Guide…	Ny stödlinje…
+	Lock Slices	Lås segment
+	Clear Slices	Rensa segment
+	Match Zoom	Matcha zoom
+	Match Location	Matcha position
+	Match Rotation	Matcha rotation
+	Cascade	Kaskad
+	Tile	Ordna sida vid sida
+	Tile All Horizontally	Ordna alla horisontellt
+	Tile All Vertically	Ordna alla vertikalt
+	2-up Horizontal	2-upp horisontell
+	2-up Vertical	2-upp vertikal
+	3-up Horizontal	3-upp horisontell
+	3-up Stacked	3-upp staplade
+	3-up Vertical	3-upp vertikal
+	4-up	4-upp
+	6-up	6-upp
+	Consolidate All to Tabs	Konsolidera allt till flikar
+	Float in Window	Visa i eget fönster
+	Float All in Windows	Visa alla i egna fönster
+	New Window for Document	Nytt fönster för dokument
+	Workspace	Arbetsyta
+	Essentials	Grundläggande
+	Graphic and Web	Grafik och webb
+	Painting	Målning
+	Photography	Fotografering
+	New Workspace…	Ny arbetsyta…
+	Delete Workspace…	Ta bort arbetsyta…
+	Reset Workspace	Återställ arbetsyta
+	Reset Tool	Återställ verktyg
+	Reset All Tools	Återställ alla verktyg
+	Reset all tools to their default settings?	Återställa alla verktyg till standardinställningarna?
+	Lock Workspace	Lås arbetsyta
+	Theme	Tema
+	Pro Theme	Pro-tema
+	Pro Medium Gray Theme	Pro mellangrått tema
+	Pro Light Gray Theme	Pro ljusgrått tema
+	Pro Light Theme	Pro ljust tema
+	Studio Theme	Studiotema
+	Studio Light Theme	Studio ljust tema
+	Adwaita Light Theme	Adwaita ljustema
+	Adwaita Dark Theme	Adwaita mörkt tema
+	Classic Theme	Klassiskt tema
+	Solarized dark	Solariserat mörkt
+	Solarized Dark Theme	Solariserat mörkt tema
+	Breeze dark	Breeze mörkt
+	Breeze Dark Theme	Breeze mörkt tema
+	Breeze light	Breeze ljust
+	Breeze Light Theme	Breeze ljust tema
+	Soft dark	Mjuk mörk
+	Soft light	Mjukt ljus
+	Soft Dark Theme	Mjukt mörkt tema
+	Soft Light Theme	Mjukt ljus tema
+	Next Theme	Nästa tema
+	Actions	Åtgärder
+	Brush Settings	Borstinställningar
+	Brushes	Borstar
+	Channels	Kanaler
+	Character	Tecken
+	Character Styles	Teckenformat
+	Clone Source	Klonkälla
+	Color	Färg
+	Glyphs	Glyfer
+	Gradients	Gradienter
+	Histogram	Histogram
+	History	Historik
+	Info	Info
+	Measurement Log	Mätningslogg
+	Modifier Keys	Modifieringsknappar
+	Navigator	Navigatör
+	Options	Alternativ
+	Paragraph	Stycke
+	Paragraph Styles	Styckeformat
+	Paths	Banor
+	Patterns	Mönster
+	Properties	Egenskaper
+	Shapes	Former
+	Styles	Stilar
+	Swatches	Färgrutor
+	Timeline	Tidslinje
+	Tool Presets	Verktygsförinställningar
+	Tools	Verktyg
+	About PhotoCraft	Om PhotoCraft
+	PhotoCraft Website	PhotoCraft-webbplats
+	PhotoCraft on GitHub	PhotoCraft på GitHub
+	ArtCraft Website	ArtCraft-webbplats
+	Join the ArtCraft Discord…	Gå med i ArtCraft Discord…
+	Report an Issue…	Rapportera ett problem…
+	WIA Support…	WIA-support…
+	Apply	Tillämpa
+	HSB/HSL	HSB/HSL
+	Invert…	Invertera…
+	Load Files into Stack…	Ladda filer i stack…
+	Motion	Rörelse
+	Notes…	Anteckningar…
+	Other…	Annat…
+	Remove Warp Split	Ta bort varpsplit
+	Shape	Form
+	Split Warp Crosswise	Dela varp korsvis
+	Split Warp Horizontally	Dela varp horisontellt
+	Split Warp Vertically	Dela varp vertikalt
+	Statistics…	Statistik…
+	Refine Strokes	Förfina penseldrag
+@plural	{n} item|{n} items	{n} objekt|{n} objekt
+	Auto	Auto
+	(print to the printer)	(skriv ut till skrivaren)
+	+ Add variable	+ Lägg till variabel
+	30 frames @ 30 fps	30 bildrutor @ 30 fps
+	3D LUT File	3D LUT-fil
+	Absolute	Absolut
+	Absolute Colorimetric	Absolut kolorimetrisk
+	Action	Åtgärd
+	Adaptive	Adaptiv
+	Adaptive Wide Angle isn't open	Adaptiv vidvinkel är inte öppen
+	Add	Lägg till
+	Add Layer Mask	Lägg till lagermask
+	Add Stop	Lägg till stopp
+	Add a layer style	Lägg till en lagerstil
+	Add a mask  (from the selection; {key} inverts)	Lägg till en mask (från urvalet; {key} inverterar)
+	Add an adjustment	Lägg till en justering
+	Add disk	Lägg till disk
+	Add space after paragraph	Lägg till mellanslag efter stycke
+	Add space before paragraph	Lägg till mellanslag före stycket
+	Add to Sample	Lägg till i prov
+	Add to selection  ({key})	Lägg till i urval ({key})
+	Adjust for Zoom	Justera för zoom
+	Adjustment visible	Justering synlig
+	Adobe RGB (1998) compatible	Adobe RGB (1998) kompatibel
+	Align and Distribute	Justera och distribuera
+	Align and distribute	Rikta in och fördela
+	Align horizontal centers	Rikta in horisontella mittpunkter
+	Align left edges	Rikta in vänster kanter
+	Align right edges	Rikta in höger kanter
+	Aligned	Justerad
+	All Caps	Versaler
+	All Slices	Alla skivor
+	All User Slices	Alla användarsegment
+	All shortcuts reset to PhotoCraft defaults.	Alla genvägar återställs till PhotoCrafts standardinställningar.
+	Alt	Alt
+	Always use pressure for opacity	Använd alltid tryck för opacitet
+	Always use pressure for size	Använd alltid tryck för storlek
+	Amount	Mängd
+	Anchor:	Ankare:
+	Angle	Vinkel
+	Angle Gradient	Vinkelgradient
+	Angle Jitter	Vinkeljitter
+	Answer the unsaved-changes prompt first	Svara först på meddelandet om osparade ändringar
+	Anti-alias	Kantutjämning
+	Appearance	Utseende
+	Appearance (Layer Style)	Utseende (lagerstil)
+	Apply Layer Mask	Tillämpa lagermask
+	Apply Per Tip	Tillämpa per penselspets
+	Apply next selected layer comp	Applicera nästa valda lagerkomp
+	Apply previous selected layer comp	Applicera föregående markerade lagerkomp
+	Artboard	Rityta
+	Artboard Background Color	Ritytans bakgrundsfärg
+	Assign working space	Tilldela arbetsyta
+	Author:	Författare:
+	Auto Hide	Dölj automatiskt
+	Auto-Select:	Autovälj:
+	Automatically level near-horizontal line segments	Nivåra automatiskt nästan horisontella linjesegment
+	Automatically straighten and level	Räta och jämna automatiskt
+	Automatically straighten near-vertical line segments	Räta automatiskt nästan vertikala linjesegment
+	Background	Bakgrund
+	Background Color	Bakgrundsfärg
+	Background Contents	Bakgrundsinnehåll
+	Balance	Balans
+	Baseline	Baslinje
+	Baseline shift	Baslinjeförskjutning
+	Basic	Grundläggande
+	Before (Y)	Före (Y)
+	Save Settings…	Spara inställningar…
+	Load Settings…	Ladda inställningar…
+	Save these settings as a Camera Raw .xmp file	Spara dessa inställningar som en Camera Raw .xmp-fil
+	Load settings from a Camera Raw .xmp file	Ladda inställningar från en Camera Raw .xmp-fil
+	Loaded Camera Raw settings from {file}	Laddade Camera Raw-inställningar från {file}
+	Loaded Camera Raw settings from {file} ({n} not supported)	Laddade Camera Raw-inställningar från {file} ({n} stöds inte)
+	Begin recording	Börja spela in
+	Bend:	Böj:
+	Bicubic	Bikubisk
+	Bicubic (smooth gradients)	Bikubisk (släta gradienter)
+	Automatic	Automatisk
+	Bicubic Smoother (enlargement)	Bikubisk mjukare (förstoring)
+	Bicubic Sharper (reduction)	Bikubisk skarpare (förminskning)
+	Bilinear	Bilinjär
+	Black	Svart
+	Black & White	Svartvitt
+	Black Point Compensation	Svartpunktskompensering
+	Black, White	Svart, vitt
+	Blacks	Svarta
+	Blending	Blandning
+	Blending Options	Blandningsalternativ
+	Blue	Blå
+	Blue, Red, Yellow	Blå, röd, gul
+	Both Axes	Båda axlarna
+	Bottom	Nederst
+	Brightness	Ljusstyrka
+	Brightness Jitter	Ljusstyrkevariation
+	Brightness/Contrast	Ljusstyrka/kontrast
+	Bring the selected pin forward	För det valda stiftet framåt
+	Brush Preset picker	Borsteförinställningsväljare
+	Brush Reconstruct Options	Alternativ för borstrekonstruktion
+	Brush Tool Options	Alternativ för borstverktyg
+	Cache Level:	Cachenivå:
+	Camera Raw isn't open	Camera Raw är inte öppen
+	Cancel	Avbryt
+	Reset	Återställ
+	Cancel (Esc)	Avbryt (Esc)
+	Manage submitted jobs in the system print queue	Hantera inskickade jobb i systemets utskriftskön
+	Cancel any current edits (Esc)	Avbryt alla aktuella redigeringar (Esc)
+	Cancel current crop operation  (Esc)	Avbryt aktuell beskärningsoperation (Esc)
+	Cancel transform (Esc)	Avbryt transformation (Esc)
+	Cancel warp (Esc)	Avbryt varp (Esc)
+	Canvas	Kanvas
+	Canvas extension color:	Kanvasens förlängningsfärg:
+	Capture	Fånga
+	Capture the visibility, position and style of every layer with + below, then switch between versions.	Fånga synligheten, positionen och stilen för varje lager med + nedan och växla sedan mellan versioner.
+	Catch-up on Stroke End	Ikapp på Stroke End
+	Center	Centrera
+	Center Crop Marks	Centrera beskärningsmarkeringar
+	Center text	Centrera text
+	Change	Ändra
+	Change All	Ändra alla
+	Change Screen Mode  (F)	Ändra skärmläge (F)
+	Change To:	Ändra till:
+	Channel Mixer	Kanalmixer
+	Channel:	Kanal:
+	Check All Layers	Markera Alla lager
+	Check Spelling	Kontrollera stavning
+	Clarity	Tydlighet
+	Clear All	Rensa alla
+	Clear Override	Rensa åsidosättande
+	Clear Samples	Rensa prover
+	Click sets foreground · right-click sets background	Klicka ställer in förgrund · högerklick ställer in bakgrund
+	Click the first point or press {key} to close · Esc cancels	Klicka på den första punkten eller tryck på {key} för att stänga · Esc avbryter
+	Click to add a point · drag off or {key}-click or Delete to remove	Klicka för att lägga till en punkt · dra av eller {key}-klicka eller Ta bort för att ta bort
+	Click to apply, {key}-click to clear overrides, double-click for Style Options	Klicka för att tillämpa, {key}-klicka för att rensa åsidosättningar, dubbelklicka för stilalternativ
+	Click to edit the gradient	Klicka för att redigera övertoningen
+	Click to restore the current colour	Klicka för att återställa den aktuella färgen
+	Click to zoom in  ·  {key}-click to zoom out  ·  drag right/left to zoom in/out	Klicka för att zooma in · {key}-klicka för att zooma ut · dra höger/vänster för att zooma in/ut
+	Click with the Note tool to add a note.	Klicka med anteckningsverktyget för att lägga till en anteckning.
+	Click: corner · Drag: smooth · Click first point: close · {key} finish · Esc cancel	Klicka: hörn · Dra: jämn · Klicka på första punkten: stäng · {key} avsluta · Esc avbryt
+	Click: corner · Drag: smooth · {alt}-drag: break handle · Click or drag first point: close · {key} finish · Esc cancel	Klicka: hörn · Dra: jämn · {alt}-dra: bryt handtag · Klicka eller dra första punkten: stäng · {key} avsluta · Esc avbryt
+	Clip to layer below	Klipp till lager nedan
+	Clipped	Klippt
+	Close Style Options	Stäng stilalternativ
+	Cmd	Cmd
+	Coated CMYK	Belagd CMYK
+	Color & Swatches	Färg och färgrutor
+	Color Balance	Färgbalans
+	Color Detail	Färg detalj
+	Color Grading	Färggradering
+	Color Lookup	Färguppslagning
+	Color Management	Färghantering
+	Color Mixer	Färgblandare
+	Color Mode	Färgläge
+	Color Priority	Färgprioritet
+	Color Range preview	Förhandsvisning av färgomfång
+	Color:	Färg:
+	Colorize	Färglägg
+	Colors	Färger
+	Commit Perspective Warp ({key})	Bekräfta perspektivförvrängning ({key})
+	Commit Puppet Warp ({key})	Bekräfta marionettförvrängning ({key})
+	Commit any current edits ({key})	Bekräfta aktuella redigeringar ({key})
+	Commit current crop operation  ({key})	Bekräfta aktuell beskärning ({key})
+	Commit transform ({key})	Bekräfta transformering ({key})
+	Commit warp ({key})	Bekräfta förvrängning ({key})
+	Constant	Konstant
+	Constrain proportions	Begränsa proportioner
+	Contact Sheet II	Kontaktblad II
+	Content-Aware	Innehållsmedveten
+	Contiguous	Sammanhängande
+	Contrast	Kontrast
+	Control:	Kontroll:
+	Convert document's colors to the working space	Konvertera dokumentets färger till arbetsytan
+	Convert to sRGB	Konvertera till sRGB
+	Copies	Kopior
+	Copper	Koppar
+	Copyright	Upphovsrätt
+	Copyright and Contact Info	Upphovsrätt och kontaktuppgifter
+	Corner Crop Marks	Beskärningsmarkeringar i hörnen
+	Corner radius	Hörnradie
+	Correction	Rättelse
+	Count Jitter	Räkningsvariation
+	Create	Skapa
+	Create Droplet	Skapa droppe
+	Create Texture	Skapa textur
+	Create Video Timeline	Skapa videotidslinje
+	Create a new count group	Skapa en ny räknegrupp
+	Create a new document or open an existing file.	Skapa ett nytt dokument eller öppna en befintlig fil.
+	Create a new group	Skapa en ny grupp
+	Create a new layer	Skapa ett nytt lager
+	Create new action	Skapa ny åtgärd
+	Create new channel	Skapa ny kanal
+	Create new document from current state	Skapa nytt dokument från nuvarande tillstånd
+	Create new fill or adjustment layer	Skapa nytt fyllnings- eller justeringslager
+	Create new gradient	Skapa ny gradient
+	Create new group	Skapa ny grupp
+	Create new layer comp	Skapa nytt lagerkomp
+	Create new pattern from the selection	Skapa ett nytt mönster från urvalet
+	Create new shape from the current path	Skapa en ny form från den aktuella banan
+	Create new snapshot	Skapa ny ögonblicksbild
+	Create new style (from the selected type)	Skapa ny stil (från den valda typen)
+	Create new style from the selected layer	Skapa ny stil från det valda lagret
+	Create new tool preset	Skapa ny verktygsförinställning
+	Crop Factor	Beskärningsfaktor
+	Ctrl	Ctrl
+	Current & Below	Nuvarande & Nedan
+	Current Layer	Aktuellt lager
+	Current Size	Aktuell storlek
+	Current Tool Only	Endast aktuellt verktyg
+	Curve	Kurva
+	Curves	Kurvor
+	Custom	Anpassad
+	Custom Shapes	Anpassade former
+	Cyan	Cyan
+	Cyan  ·  Red	Cyan · Röd
+	Darken	Mörka
+	Darks	Mörka toner
+	Data Sets	Datauppsättningar
+	Default	Standard
+	Default colours (D)	Standardfärger (D)
+	Default printer	Standardskrivare
+	Default restored.	Standardinställningarna har återställts.
+	Define	Definiera
+	Define at least one variable first.	Definiera minst en variabel först.
+	Dehaze	Ta bort dis
+	Delete Cropped Pixels	Ta bort beskurna pixlar
+	Delete Group	Ta bort grupp
+	Delete Layer Mask	Ta bort lagermask
+	Delete Layers	Ta bort lager
+	Delete Shortcut	Ta bort genväg
+	Delete Timeline	Ta bort tidslinje
+	Delete Tool Preset	Ta bort verktygsförinställning
+	Delete count group	Ta bort räknegrupp
+	Delete current channel	Radera aktuell kanal
+	Delete current state	Ta bort aktuell status
+	Delete effect layer	Ta bort effektlager
+
+# Layers-panel trash confirmation
+	Delete layer ‘{name}’?	Ta bort lager "{name}"?
+	Delete {count} layers? {names}	Ta bort {count}-lager? {names}
+	Delete layer?	Ta bort lager?
+	The document is closed	Dokumentet är stängt
+	The document or selected layers changed. Please request deletion again.	Dokumentet eller valda lager har ändrats. Vänligen begär radering igen.
+	Missing delete command	Ta bort kommando saknas
+	Invalid delete command	Ogiltigt raderingskommando
+	Layer deleted, but confirmation preference could not be saved: {error}	Lager raderade, men bekräftelseinställningen kunde inte sparas: {error}
+
+	Delete layer	Ta bort lager
+	Delete layer comp	Ta bort lagerkomp
+	Delete note	Ta bort anteckning
+	Delete selected measurements	Radera valda mått
+	Delete style	Ta bort stil
+	Delete tool preset	Ta bort verktygsförinställning
+	Density	Densitet
+	Density:	Densitet:
+	Depth	Djup
+	Depth Jitter	Djup Jitter
+	Description	Beskrivning
+	Deselect All	Avmarkera alla
+	Detail	Detalj
+	Diamond Gradient	Diamantövertoning
+	Difference	Skillnad
+	Diffusion	Diffusion
+	Discard the embedded profile (don't color manage)	Släng den inbäddade profilen (färghantera inte)
+	Discontiguous	Osammanhängande
+	Discord	Discord
+	Dismiss	Avvisa
+	Display P3	Display P3
+	Display Text	Visa text
+	Dither	Dithering
+	Divide…	Dela…
+	Document	Dokument
+	Don't Save	Spara inte
+	No	Nej
+	Yes	Ja
+	Done	Klart
+	Dots	Prickar
+	Drag a rectangle around the object	Dra en rektangel runt objektet
+	Drag on the image to add a constraint; Shift for horizontal/vertical; right-click to delete.	Dra på bilden för att lägga till en begränsning; Skift för horisontell/vertikal; högerklicka för att ta bort.
+	Drag to move the active shape's path or the Work Path	Dra för att flytta den aktiva formens bana eller arbetsbanan
+	Click: select anchor · Drag: move anchor, handle or segment · {shift}-click: add · {alt}-click: whole subpath	Klicka: välj ankare · Dra: flytta ankare, handtag eller segment · {shift}-klicka: lägg till · {alt}-klicka: hela undersökvägen
+	Draw with the Pen tool (P) or make a work path from a selection.	Rita med pennverktyget (P) eller gör en arbetsbana från ett urval.
+	Drop an image or PSD anywhere to open it.	Släpp en bild eller PSD var som helst för att öppna den.
+	Native file drag-and-drop is unavailable	Inbyggd dra-och-släpp-funktion för filer är inte tillgänglig
+	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or copy the image in your file manager and paste it with {paste}.	Inbyggd dra-och-släpp-fil stöds inte på Wayland ännu. Använd Arkiv › Öppna eller kopiera bilden i din filhanterare och klistra in den med {paste}.
+	To drop files, start PhotoCraft under XWayland: `{command}`	För att släppa filer, starta PhotoCraft under XWayland: `{command}`
+	Or set Preferences › Performance › Linux display server to X11: PhotoCraft then always starts under XWayland.	Eller ställ in Preferences › Prestanda › Linux display server till X11: PhotoCraft startar sedan alltid under XWayland.
+	Edit › Paste	Redigera › Klistra in
+	Duplicate Layers…	Duplicera lager…
+	Duplicate style	Duplicera stil
+	Edit Toolbar…	Redigera verktygsfält…
+	Use File › Open, or paste a copied image with {paste}.	Använd Arkiv › Öppna eller klistra in en kopierad bild med {paste}.
+	Edit in Quick Mask Mode  (Q)	Redigera i snabbmaskläge (Q)
+	Edit in Standard Mode  (Q)	Redigera i standardläge (Q)
+	Effects	Effekter
+	Embed Color Profile	Bädda in färgprofil
+	Embedded Profile Mismatch	Den inbäddade profilen stämmer inte överens
+	Enable airbrush-style build-up effects	Aktivera uppbyggnadseffekter i airbrush-stil
+	Enhance Edge	Förbättra Edge
+	Entire Font	Hela teckensnittet
+	Exact	Exakt
+	Expansion:	Utökning:
+	Export Presets	Exportera förinställningar
+	Export selected measurements (CSV)	Exportera valda mått (CSV)
+	Exposure	Exponering
+	Exposure and Gamma	Exponering och gamma
+	Exposure:	Exponering:
+	Eyedropper	Pipett
+	Factor:	Faktor:
+	Faux Bold	Syntetisk fetstil
+	Faux Italic	Syntetisk kursiv
+	Feather	Mjuka upp
+	Fewer Points	Färre poäng
+	File Settings	Filinställningar
+	Fill	Fyll
+	Fill:	Fyll:
+	Filter for adjustment layers	Filter för justeringslager
+	Filter for pixel layers	Filter för pixellager
+	Filter for shape layers	Filter för formlager
+	Filter for smart objects	Filter för smarta objekt
+	Filter for type layers	Filter för typlager
+	Filter:	Filter:
+	Finger Painting	Fingermålning
+	Fisheye	Fisköga
+	Fit	Anpassa
+	Fit Screen	Anpassa till skärmen
+	Fill Screen	Fyll skärm
+	Fit in View	Anpassa till vyn
+	Fixed	Fast
+	Fixed Ratio	Fast bildförhållande
+	Fixed Size	Fast storlek
+	Flip	Vänd
+	Flip X	Vänd X
+	Flip X Jitter	Variation av X-vändning
+	Flip Y	Vänd Y
+	Flip Y Jitter	Variation av Y-vändning
+	Flow	Flöde
+	Flow Jitter	Flödesvariation
+	Focal Length	Brännvidd
+	Font	Teckensnitt
+	Font Size:	Teckenstorlek:
+	Font size	Teckenstorlek
+	Foreground	Förgrund
+	Foreground to Background	Förgrund till bakgrund
+	Foreground/Background Jitter	Jitter i förgrund/bakgrund
+	Format	Format
+	Frame from Layers…	Bildruta från lager…
+	Free	Gratis
+	Full Spherical	Full Sfärisk
+	Fuzziness:	Luddighet:
+	GPU	GPU
+	Gamma Correction	Gammakorrigering
+	Gamma:	Gamma:
+	Global	Global
+	Glow Color	Glödfärg
+	Gradient Map	Gradientkarta
+	Grain	Korn
+	Gray	Grå
+	Gray Gamma 2.2	Grå gamma 2.2
+	Green	Grön
+	Group	Grupp
+	Hardness	Hårdhet
+	Heart	Hjärta
+	Height	Höjd
+	Height:	Höjd:
+	Hide Auto Slices	Dölj automatiska skivor
+	Hide Properties	Dölj egenskaper
+	Highlight Compression	Komprimering av högdagrar
+	Highlight Priority	Prioritera högdagrar
+	Highlights	Högdagrar
+	Home	Hem
+	Horizontal scale	Horisontell skala
+	Hue	Nyans
+	Hue Jitter	Nyansvariation
+	Hue/Saturation	Nyans/mättnad
+	Hyphenate	Avstava
+	Ignore	Ignorera
+	Ignore All	Ignorera alla
+	Image Size	Bildstorlek
+	Import Brushes…	Importera penslar…
+	Gradient Preset Options	Alternativ för övertoningsförinställningar
+	Import .GRD	Importera .GRD
+	Choose a gradient file (.grd).	Välj en gradientfil (.grd).
+	Import brushes (.abr)	Importera penslar (.abr)
+	Import Presets	Importera förinställningar
+	Imported	Importerad
+	Indent First	Första radens indrag
+	Indent Left	Vänster indrag
+	Indent Right	Höger indrag
+	Indent first line	Dra in första raden
+	Indent left margin	Indrag vänster marginal
+	Indent right margin	Indrag högermarginal
+	Input:	Inmatning:
+	Inside	Inuti
+	Interlaced	Sammanflätad
+	Interpolation:	Interpolering:
+	Intersect with selection  ({key})	Skär med markering ({key})
+	Invert All	Invertera alla
+	Invert has no settings.	Invertera har inga inställningar.
+	Italic	Kursiv
+	Join us on Discord	Gå med i vår Discord
+	Justify all	Marginaljustera allt
+	Justify last centered	Motivera senast centrerad
+	Justify last left	Motivera sist vänster
+	Justify last right	Motivera sista höger
+	Kerning	Kerning
+	Keyboard Shortcuts	Kortkommandon
+	Keyboard Shortcuts and Menus	Kortkommandon och menyer
+	Kind	Typ
+	Label Size	Etikettstorlek
+	Labels	Etiketter
+	Lanczos (sharp)	Lanczos (skarp)
+	Landscape	Liggande
+	Last Document State	Senaste dokumentstatus
+	Layout	Layout
+	Leading	Radavstånd
+	Leading (set to the font size × auto-leading when Auto)	Leading (ställ in på teckenstorlek × auto-leading när Auto)
+	Leave as is (don't color manage)	Lämna som det är (färghantera inte)
+	Left align text	Vänsterjusterad text
+	Length:	Längd:
+	Level	Nivå
+	Levels	Nivåer
+	Lighten	Ljusare
+	Lightness	Ljushet
+	Lights	Ljusa toner
+	Limits:	Gränser:
+	Linear Gradient	Linjär övertoning
+	Link layers	Länka lager
+	Link width and height	Länkens bredd och höjd
+	Liquify is not open	Liquify är inte öppen
+	Load	Ladda
+	Load 3D LUT…	Ladda 3D LUT…
+	Load channel as selection	Ladda kanal som val
+	Load…	Ladda…
+	Localized Color Clusters	Lokala färgkluster
+	Lock	Lås
+	Lock all	Lås allt
+	Lock image pixels	Lås bildpixlar
+	Lock layer	Lås lager
+	Lock position	Lås position
+	Lock transparent pixels	Lås genomskinliga pixlar
+	Lock:	Lås:
+	Logical Length:	Logisk längd:
+	Logical Units:	Logiska enheter:
+	Luminance	Luminans
+	Luminance Detail	Luminansdetalj
+	Magenta	Magenta
+	Magenta  ·  Green	Magenta · Grön
+	Maintain aspect ratio	Behåll bildförhållandet
+	Marker Size	Markörstorlek
+	Mask All	Maskera allt
+	Mask Options	Maskalternativ
+	Masking	Maskering
+	Master	Huvud
+	Matte	Mattning
+	Median:	Median:
+	Menus	Menyer
+	Mesh Size	Nätstorlek
+	Metadata	Metadata
+	Metrics	Måttvärden
+	Midpoint	Mittpunkt
+	Midtones	Mellantoner
+	Midtones from:	Mellantoner från:
+	Midtones to:	Mellantoner till:
+	Minimum Depth	Minsta djup
+	Minimum Diameter	Minsta diameter
+	Minimum Roundness	Minsta rundhet
+	Mode:	Läge:
+	Monochrome	Monokrom
+	More Points	Fler punkter
+	Move effect layer down	Flytta effektlager nedåt
+	Move effect layer up	Flytta effektlager uppåt
+	Move to	Flytta till
+	Name	Namn
+	Name:	Namn:
+	Nearest Neighbor	Närmaste granne
+	Nearest Neighbor (hard edges)	Närmaste granne (hårda kanter)
+	New Size	Ny storlek
+	New document…	Nytt dokument…
+	New effect layer	Nytt effektlager
+	New selection	Nytt urval
+	Next frame	Nästa ram
+	Next note	Nästa anteckning
+	No Color	Ingen färg
+	No Color Management	Ingen färghantering
+	No Dither	Ingen dithering
+	No author	Ingen författare
+	No character style	Inget teckenformat
+	No document	Inget dokument
+	No matching commands	Inga matchande kommandon
+	No presets for the current tool.	Inga förinställningar för det aktuella verktyget.
+	No presets of this type.	Inga förinställningar av denna typ.
+	No properties	Inga egenskaper
+	No tool presets.	Inga verktygsförinställningar.
+	Noise Reduction	Brusreducering
+	Normal	Normal
+	Not in Dictionary:	Inte i ordboken:
+	OK	OK
+	Offset	Förskjutning
+	Only Web Colors	Endast webbfärger
+	Opacity	Opacitet
+	Opacity Jitter	Opacitetsjitter
+	Opacity:	Opacitet:
+	Open a document to define variables.	Öppna ett dokument för att definiera variabler.
+	Open a document to select a colour range.	Öppna ett dokument för att välja ett färgområde.
+	Open a document to use the timeline.	Öppna ett dokument för att använda tidslinjen.
+	Optical	Optisk
+	Optimized	Optimerad
+	Option-click to define a source point to clone from	Alternativ-klicka för att definiera en källpunkt att klona från
+	Original	Original
+	Output Channel:	Utkanal:
+	Output Levels:	Utdata:
+	Output:	Utdata:
+	Outside	Utanför
+	Overlay Color	Överläggsfärg
+	Overlay Opacity	Överlagringens opacitet
+	Overlay: Rule of Thirds	Överlägg: tredjedelsregeln
+	Override Pressure	Åsidosätt tryck
+	Override Rotation	Åsidosätt rotation
+	Override Tilt	Åsidosätt lutning
+	PRESET DETAILS	FÖRINSTÄLLDA DETALJER
+	PSD	PSD
+	Paint Overlay	Måla överlägg
+	Panel locations are saved in the workspace. Keyboard shortcuts, menus and toolbar are optional.	Panelplatserna sparas i arbetsytan. Kortkommandon, menyer och verktygsfält är valfria.
+	Paper	Papper
+	Path	Bana
+	Pattern	Mönster
+	Pattern Size	Mönsterstorlek
+	Pause	Pausa
+	Percent	Procent
+	Perceptual	Perceptuell
+	Perspective Warp is not active	Perspektivförvrängning är inte aktiv
+	Perspective Warp: draw planes along the image's perspective, then switch to Warp	Perspektiv förvrängning: rita plan längs bildens perspektiv och växla sedan till förvrängning
+	Photo Filter	Fotofilter
+	PhotoCraft	PhotoCraft
+	PhotoCraft Manages Colors	PhotoCraft hanterar färger
+	PhotoCraft — an open-source, native image editor written in Rust.	PhotoCraft — en inbyggd bildredigerare med öppen källkod skriven i Rust.
+	Pin Depth:	Fästpunktsdjup:
+	Pixel Length:	Pixellängd:
+	Pixels/Centimeter	Pixlar/centimeter
+	Pixels/Inch	Pixlar/tum
+	Pixels:	Pixlar:
+	Play	Spela
+	Play selection	Spela upp markeringen
+	Portrait	Porträtt
+	Position	Position
+	Position and Size	Position och storlek
+	Posterize	Posterisera
+	Preserve Details	Bevara detaljer
+	Preserve Luminosity	Bevara ljusstyrkan
+	Preset	Förinställd
+	Preset Type	Förinställd typ
+	Preset:	Förinställning:
+	Presets:	Förinställningar:
+	Press keys…	Tryck på tangenterna…
+	Pressure	Tryck
+	Pressure for Opacity	Tryck för opacitet
+	Pressure for Size	Tryck för storlek
+	Prevent auto-nesting in and out of Artboards and Frames	Förhindra automatisk kapsling in och ut av ritytor och ramar
+	Preview	Förhandsgranska
+	Previous frame	Föregående bildruta
+	Previous note	Föregående anmärkning
+	Print	Skriv ut
+	Printer	Skrivare
+	Printer Manages Colors	Skrivaren hanterar färger
+	Printer Setup	Skrivarinställningar
+	Printing Marks	Utskriftsmärken
+	Progressive	Progressiv
+	Promote	Uppgradera
+	Protect Detail	Skydda detalj
+	Protect Foreground Color	Skydda förgrundsfärgen
+	Protect Tones	Skydda toner
+	Proximity Match	Närhetsmatch
+	Pulled String Mode	Dragsträngsläge
+	Puppet Warp is not active	Marionettförvrängning är inte aktiv
+	Purity	Renhet
+	Quality	Kvalitet
+	Quick Actions	Snabba åtgärder
+	Quick Export As PNG	Snabbexportera som PNG
+	Radial Gradient	Radiell gradient
+	Radius	Radie
+	Radius:	Radie:
+	Range:	Räckvidd:
+	Rate	Hastighet
+	Recently Used	Nyligen använd
+	Reconstruct	Rekonstruera
+	Record ● a sequence of edits, then play ▶ it on any document.	Spela in ● en redigeringssekvens och spela ▶ upp den på valfritt dokument.
+	Red	Röd
+	Redefine style by current selection	Omdefiniera stil efter aktuellt val
+	Refine	Förfina
+	Reflected Gradient	Speglad övertoning
+	Registration Marks	Registreringsmärken
+	Regular	Normal
+	Relative	Relativ
+	Relative Colorimetric	Relativ kolorimetrisk
+	Remove	Ta bort
+	Remove All Pins	Ta bort alla fästpunkter
+	Remove Background	Ta bort bakgrund
+	Remove Planes	Ta bort plan
+	Remove Tool	Ta bort verktyg
+	Remove stop	Ta bort stoppet
+	Remove variable	Ta bort variabel
+	Rename	Byt namn
+	Rename Group…	Byt namn på grupp…
+	Rename Layer…	Byt namn på lager…
+	Rename Tool Preset…	Byt namn på verktygsförinställning…
+	Rename…	Byt namn…
+	Resample	Sampla om
+	Reset All to Defaults	Återställ alla till standardinställningar
+	Import Shortcuts…	Importera genvägar…
+	Load a keyboard shortcut set saved as .kys	Ladda ett kortkommando som sparats som .kys
+	Imported {n} shortcuts from {file}. Click OK to keep them.	Importerade {n}-genvägar från {file}. Klicka på OK för att behålla dem.
+	{n} commands are not in PhotoCraft.	{n}-kommandon finns inte i PhotoCraft.
+	Keyboard shortcuts imported	Kortkommandon importerade
+	Your keyboard shortcut set {set} is in use here: {n} shortcuts differ from the defaults. Edit › Keyboard Shortcuts shows them; Reset All to Defaults undoes this.	Din kortkommandon {set} används här: {n} genvägar skiljer sig från standardinställningarna. Redigera › Kortkommandon visar dem; Återställ alla till standardinställningar ångrar detta.
+	Import keyboard shortcuts?	Importera kortkommandon?
+	PhotoCraft found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from PhotoCraft's. Import it?	PhotoCraft hittade din kortkommandouppsättning {set} från en annan bildredigerare på den här datorn: {n} av dess genvägar skiljer sig från PhotoCrafts. Importera det?
+	Edit › Keyboard Shortcuts › Reset All to Defaults undoes an import.	Redigera › Kortkommandon › Återställ alla till standardinställningar ångrar en import.
+	Don't Import	Importera inte
+	The keyboard shortcut set was not imported: {error}	Tangentbordsgenvägsuppsättningen importerades inte: {error}
+	Reset Section	Återställ avsnitt
+	Reset Transform	Återställ transformering
+	Reset to defaults	Återställ till standardinställningar
+	Resolution	Upplösning
+	Resolution:	Upplösning:
+	Restore All	Återställ alla
+	Restore Defaults	Återställ standardinställningar
+	Restrictive (Web)	Restriktiv (webb)
+	Right align text	Högerjustera text
+	Rigid	Stel
+	Rotate:	Rotera:
+	Rotation	Rotation
+	Roughness	Strävhet
+	Roundness	Rundhet
+	Roundness Jitter	Rundhetsvariation
+	Rulers & Grids	Linjaler och rutnät
+	Sample All Layers	Sampla alla lager
+	Sample:	Sampla:
+	Sampling: Background Swatch	Sampla: bakgrundsfärgruta
+	Sampling: Continuous	Sampla: kontinuerligt
+	Sampling: Once	Sampla: en gång
+	Saturate	Mätta
+	Saturation	Mättnad
+	Saturation Jitter	Mättnadsjitter
+	Save HTML and Images	Spara HTML och bilder
+	Save as PDF	Spara som PDF
+	Save selection as channel	Spara valet som kanal
+	Save…	Spara…
+	Scale to Fit Media	Skala för att passa media
+	Scatter	Spridning
+	Scratch disks	Arbetsdiskar
+	Search	Sök
+	Search commands	Sökkommandon
+	Search commands, tools and panels…	Sökkommandon, verktyg och paneler…
+	Search fonts	Sök teckensnitt
+	Select All	Markera alla
+	Select Subject	Markera motiv
+	Select a type layer or click into text to insert glyphs	Välj ett typlager eller klicka i text för att infoga glyfer
+	Select text to apply a character style	Markera text för att tillämpa en teckenstil
+	Select:	Välj:
+	Selections	Urval
+	Selective	Selektiv
+	Selective Color	Selektiv färg
+	Send the selected pin backward	Skicka det valda stiftet bakåt
+	Set additional smoothing options	Ställ in ytterligare utjämningsalternativ
+	Set background color	Ställ in bakgrundsfärg
+	Set foreground color	Ställ in förgrundsfärg
+	Set painting symmetry options	Ställ in målningssymmetrialternativ
+	Symmetry Off	Symmetri av
+	Set shape fill type	Ställ in formfyllningstyp
+	Set shape stroke type	Ställ in formslagstyp
+	Set the text color	Ställ in textfärgen
+	Shadows	Skuggor
+	Shape:	Form:
+	Sharpening	Skärpning
+	Shift	Skift
+	Shortcut removed.	Genvägen har tagits bort.
+	Show All Menu Items	Visa alla menyalternativ
+	Show Backdrop	Visa bakgrund
+	Show Guides	Visa stödlinjer
+	Show Mask	Visa mask
+	Show Mesh	Visa nät
+	Show Overlay	Visa överlägg
+	Show Transform Controls	Visa transformeringskontroller
+	Show or hide the Notes panel	Visa eller dölj anteckningspanelen
+	Show:	Visa:
+	Sides	Sidor
+	Sides:	Sidor:
+	Size	Storlek
+	Size Jitter	Storleksvariation
+	Size:	Storlek:
+	Slice Options…	Segmentalternativ…
+	Slices From Guides	Segment från stödlinjer
+	Slices are locked (View › Lock Slices)	Segmenten är låsta (Visa › Lås segment)
+	Small Caps	Kapitäler
+	Smoothing	Utjämning
+	Space After	Avstånd efter
+	Space Before	Avstånd före
+	Spacing	Avstånd
+	Spell check complete.	Stavningskontrollen klar.
+	Split:	Dela:
+	Star ratio	Stjärnförhållande
+	Stop playing/recording	Sluta spela/spela in
+	Straighten	Räta ut
+	Straighten Layer	Räta ut lagret
+	Strength:	Styrka:
+	Strikethrough	Genomstruken
+	Stroke	Kontur
+	Stroke Catch-up	Stroke ikapp
+	Stroke:	Kontur:
+	Location	Plats
+	Location:	Plats:
+	Style	Stil
+	Style Options	Stilalternativ
+	Style Options…	Stilalternativ…
+	Style: Normal	Stil: Normal
+	Subtract from Sample	Subtrahera från provet
+	Subtract from selection  ({key})	Subtrahera från markering ({key})
+	Suggestions:	Förslag:
+	Swap colours (X)	Byt färger (X)
+	Swaps height and width	Byter höjd och bredd
+	Switch between free transform and warp modes	Växla mellan fri transformering och förvrängningsläge
+	Switch theme	Byt tema
+	Temperature	Temperatur
+	Tetrahedral	Tetraedrisk
+	Text Position:	Textposition:
+	Texture	Textur
+	Texture Each Tip	Texturera varje penselspets
+	Threshold	Tröskel
+	Threshold Level	Tröskelnivå
+	Thumbnail size (smallest: list)	Miniatyrstorlek (minst: lista)
+	Tilt X	Luta X
+	Tilt Y	Luta Y
+	Tint	Färgton
+	Toggle count group visibility	Växla räknegruppssynlighet
+	Toggle text orientation	Växla textorientering
+	Tolerance	Tolerans
+	Tolerance:	Tolerans:
+	Tone:	Ton:
+	Toolbar	Verktygsfält
+	Top	Överst
+	Total:	Totalt:
+	Tracking	Teckenavstånd
+	Tracking (1/1000 em)	Teckenavstånd (1/1000 em)
+	Transparency	Transparens
+	Transparent	Transparent
+	Trilinear	Trilinjär
+	Type Styles	Textformat
+	Type:	Typ:
+	Underline	Understryka
+	Untitled	Namnlös
+	Untitled-1	Namnlös-1
+	Update layer comp (visibility, position and appearance)	Uppdatera lagerkomp (synlighet, position och utseende)
+	Use Default	Använd standard
+	Use Legacy	Använd äldre
+	Use Measurement Scale	Använd mätskala
+	Use the embedded profile (instead of the working space)	Använd den inbäddade profilen (istället för arbetsutrymmet)
+	Variables bind a layer's visibility, text or pixels to a named data slot.	Variabler binder ett lagers synlighet, text eller pixlar till en namngiven dataplats.
+	Vertical scale	Vertikal skala
+	Vibrance	Lyster
+	View Options	Visa alternativ
+	Vignetting	Vinjettering
+	Violet, Orange	Violett, Orange
+	Visibility	Synlighet
+	Visible	Synlig
+	Warp:	Varp:
+	Web Snap	Fäst mot webbfärger
+	Weight	Vikt
+	Weight:	Vikt:
+	White	Vit
+	White Balance: As Shot	Vitbalans: som fotograferat
+	Whites	Vita
+	Width	Bredd
+	Slant	Sned
+	Width:	Bredd:
+	Work Path	Arbetsbana
+	Yellow	Gul
+	Yellow  ·  Blue	Gul · Blå
+	Zoom	Zooma
+	Zoom in	Zooma in
+	Zoom out	Zooma ut
+	command or shortcut	kommando eller genväg
+	current	nuvarande
+	image file path	bildfilens sökväg
+	modified	modifierad
+	name	namn
+	new	ny
+	{name} options	{name} alternativ
+	↑↓ navigate   {key} run   esc close	↑↓ navigera {key} kör esc stäng
+	Version {version}	Version {version}
+	New Document	Nytt dokument
+	New Document With Mask	Nytt dokument med mask
+	New Layer With Mask	Nytt Lager Med Mask
+	New Layer	Nytt lager
+	Save Preset…	Spara förinställning…
+	Preset Name	Förinställt namn
+	No saved presets yet.	Inga sparade förinställningar ännu.
+	Error	Fel
+	Command	Kommando
+	Adjustment layers have nothing to transform	Justeringslager har inget att omvandla
+	Altitude	Höjd
+	Android 1080p	Android 1080p
+	Apple Watch 45mm	Apple Watch 45 mm
+	Aqua	Aqua
+	Art & Illustration	Konst & Illustration
+	ArtCraft	ArtCraft
+	Background Eraser Tool	Bakgrundssuddgummiverktyg
+	Bevel & Emboss	Fasning & relief
+	Blend Mode	Blandningsläge
+	Blues	Blåtoner
+	Blur Tool	Oskärpeverktyg
+	Bold	Fet
+	Brush	Pensel
+	Block	Block
+	Brush Pose	Penselposition
+	Brush Tip Shape	Borstspetsform
+	Brush Tool	Borstverktyg
+	Build-up	Uppbyggnad
+	Burn Tool	Brännverktyg
+	Centimeters	Centimeter
+	Choke	Sammandragning
+	Classic	Klassisk
+	Click to add text	Klicka för att lägga till text
+	Click to fill similar colours	Klicka för att fylla liknande färger
+	Clone Stamp Tool	Verktyg för klonstämpel
+	Color Burn	Färgbränning
+	Color Dodge	Färgskärm
+	Color Dynamics	Färgdynamik
+	Color Overlay	Färgöverlägg
+	Comic Book	Serietidning
+	Conform	Anpassa
+	Content-Aware Fill needs a selection on a pixel layer	Content-Aware Fill behöver ett urval på ett pixellager
+	Could not transform: the layer is empty	Kunde inte transformera: lagret är tomt
+	Could not use Perspective Warp: the layer is empty	Kunde inte använda Perspective Warp: lagret är tomt
+	Could not use Puppet Warp: no opaque pixels	Kunde inte använda marionettförvrängning: inga ogenomskinliga pixlar
+	Could not use Puppet Warp: the layer is empty	Kunde inte använda marionettförvrängning: lagret är tomt
+	Crop Tool	Beskärningsverktyg
+	Crosswise	På tvären
+	Current Tool	Aktuellt verktyg
+	Custom Shape Tool	Egen formverktyg
+	Cyans	Cyaner
+	Default PhotoCraft Size	Standardstorlek för PhotoCraft
+	Delete Workspace	Ta bort arbetsyta
+	Diamond	Diamant
+	Dimensions:	Mått:
+	Direction	Riktning
+	Distance	Avstånd
+	Document Dimensions	Dokumentmått
+	Document Profile	Dokumentprofil
+	Document Sizes	Dokumentstorlekar
+	Dodge Tool	Efterbelysningsverktyg
+	Down	Ner
+	Drag to draw a gradient	Dra för att rita en gradient
+	Drag to move the active layer	Dra för att flytta det aktiva lagret
+	Drag to pan  ·  hold Space with any tool	Dra för att panorera · håll mellanslag med valfritt verktyg
+	Drop Shadow	Slagskugga
+	Dual Brush	Dubbel borste
+	Edge	Kant
+	Efficiency	Effektivitet
+	Efficiency: 100%	Effektivitet: 100 %
+	Ellipse Tool	Ellipsverktyg
+	Elliptical Marquee Tool	Elliptiskt markeringsverktyg
+	Single Row Marquee Tool	Enkelrads markeringsverktyg
+	Single Column Marquee Tool	Enkelkolumns markeringsramverktyg
+	Emboss	Relief
+	Eraser	Suddgummi
+	Eraser Tool	Suddgummiverktyg
+	ExtraBold	Extra fet
+	ExtraLight	Extra ljus
+	Eyedropper Tool	Pipettverktyg
+	Fade	Tona ut
+	Fill Opacity	Fyll Opacitet
+	Film & Video	Film och video
+	From	Från
+	General	Allmänt
+	GitHub	GitHub
+	Gradient Overlay	Övertoningsövertäckning
+	Gradient Tool	Gradientverktyg
+	Greens	Gröna
+	Hand Tool	Handverktyg
+	Hard	Hård
+	Hard Mix	Hård mix
+	Healing Brush Tool	Lagningspenselverktyg
+	Highlights from:	Höjdpunkter från:
+	History Brush Tool	Historikpenselverktyg
+	Horizontal Type Tool	Horisontellt textverktyg
+	Horizontal Type Mask Tool	Horisontellt textmaskverktyg
+	Vertical Type Mask Tool	Vertikalt textmaskverktyg
+	Image Size:	Bildstorlek:
+	Inches	Tum
+	Indexed	Indexerad
+	Initial Direction	Inledande riktning
+	Inner Bevel	Inre fasning
+	Inner Glow	Inre glöd
+	Inner Shadow	Inre skugga
+	Lab	Lab
+	Landscape, 10 x 8	Liggande, 10 x 8
+	Landscape, 6 x 4	Landskap, 6 x 4
+	Landscape, 7 x 5	Landskap, 7 x 5
+	Lasso	Lasso
+	Lasso Tool	Lassoverktyg
+	Layer Count	Antal lager
+	Layer Knocks Out Drop Shadow	Lagret slår ut slagskuggan
+	Legal	Lagligt
+	Letter	Brev
+	Light	Ljus
+	Line Tool	Linjeverktyg
+	Linear	Linjär
+	Linear Burn	Linjär färgbränning
+	Linear Height	Linjär höjd
+	Link with Layer	Länka till lager
+	Lorem Ipsum	Lorem Ipsum
+	Magentas	Magentatoner
+	Magic Eraser Tool	Magiskt suddgummiverktyg
+	Magic Wand Tool	Trollstavsverktyg
+	Marquee	Markeringsram
+	Mean:	Medelvärde:
+	Measurement Scale	Måttskala
+	Measurement Scale Marker	Mätskalaindikator
+	Millimeters	Millimeter
+	Mobile	Mobil
+	Move Tool	Flyttaverktyg
+	Could not use the move tool because the layer is locked.	Det gick inte att använda flyttverktyget eftersom lagret är låst.
+	Could not complete the Free Transform command because the layer is locked.	Det gick inte att slutföra kommandot Free Transform eftersom lagret är låst.
+	Multiply	Multiplicera
+	My Brushes	Mina borstar
+	Neutrals	Neutrala
+	New Workspace	Ny arbetsyta
+	Note Tool	Anteckningsverktyg
+	Object Selection Tool	Objektvalsverktyg
+	Off	Av
+	Open	Öppna
+	Orange	Orange
+	Original Ratio	Originalförhållande
+	Out Of Gamut	Utanför omfånget
+	Outer Bevel	Yttre avfasning
+	Outer Glow	Yttre glöd
+	Overlay	Överlägg
+	Paint Bucket Tool	Färghinkverktyg
+	Paints from the document's opening state	Målar från dokumentets öppningsläge
+	Path Selection Tool	Verktyg för vägval
+	Direct Selection Tool	Verktyg för direktval
+	Add Anchor Point Tool	Lägg till ankarpunktsverktyg
+	Delete Anchor Point Tool	Ta bort ankarpunktsverktyg
+	Click a segment to add an anchor point · {alt}-click an anchor to delete it	Klicka på ett segment för att lägga till en ankarpunkt · {alt}-klicka på ett ankare för att ta bort det
+	Click an anchor point to delete it · {alt}-click a segment to add one	Klicka på en ankarpunkt för att ta bort den · {alt}-klicka på ett segment för att lägga till ett
+	Pattern Overlay	Mönsteröverlägg
+	Pen Pressure	Penntryck
+	Pen Tilt	Pennlutning
+	Pen Tool	Pennverktyg
+	Convert Point Tool	Konvertera punktverktyg
+	Photo	Foto
+	PhotoCraft website	PhotoCraft-webbplats
+	Picas	Picas
+	Pillow Emboss	Kuddeprägling
+	Pixel Replacement	Pixelbyte
+	Pixels	Pixlar
+	Points	Punkter
+	Polygon Tool	Polygonverktyg
+	Polygonal Lasso Tool	Polygonlassoverktyg
+	Portrait, 4 x 6	Porträtt, 4 x 6
+	Portrait, 5 x 7	Porträtt, 5 x 7
+	PostScript (72 points/inch)	PostScript (72 poäng/tum)
+	Postcard	Vykort
+	Poster	Affisch
+	Pro (Dark)	Pro (mörk)
+	Pro (Light)	Pro (Lätt)
+	Pro (Light Gray)	Pro (ljusgrå)
+	Pro (Medium Gray)	Pro (medelgrå)
+	Protect Texture	Skydda textur
+	Purple	Lila
+	Quick Mask	Snabbmask
+	Quick Selection Tool	Snabbvalsverktyg
+	Radial	Radiell
+	Rasterize Layer	Rasterisera lager
+	Rasterize Layers	Rasterisera lager
+	Ratio	Förhållande
+	Recent	Nyligen
+	Rectangle Tool	Rektangelverktyg
+	Rectangular Marquee Tool	Rektangulärt markeringsverktyg
+	Reds	Röda
+	Reflected	Reflekterat
+	Sample: foreground colour	Prov: förgrundsfärg
+	Sampled Colors	Samplade färger
+	Satin	Satin
+	Save Pixel Aspect Ratio	Spara Pixel Aspect Ratio
+	Scattering	Spridning
+	Scratch Sizes	Skrapstorlekar
+	Select Data Points	Välj Datapunkter
+	Selection	Urval
+	SemiBold	Halvfet
+	Shadows up to:	Skuggor upp till:
+	Shape Dynamics	Formdynamik
+	Sharpen Tool	Skärpa verktyg
+	Show Extras Options	Visa Extraalternativ
+	Slice Select Tool	Verktyg för skivval
+	Slice Tool	Skivverktyg
+	Smart Filters	Smarta filter
+	Smudge Tool	Smetningsverktyg
+	Soft	Mjuk
+	Soften	Mjuka upp
+	Source	Källa
+	Source: set	Källa: set
+	Sponge Tool	Svampverktyg
+	Spot Healing Brush Tool	Lagningspenselverktyg för punktlagning
+	Spread	Sprid ut
+	Square, 12 x 12	Fyrkantig, 12 x 12
+	Square, 5 x 5	Fyrkantig, 5 x 5
+	Std Dev:	Standardavvikelse:
+	Studio (Dark)	Studio (mörk)
+	Studio (Light)	Studio (Lätt)
+	Stylus Wheel	Stylushjul
+	Subtract	Subtrahera
+	Tabloid	Tabloid
+	Text Replacement	Textbyte
+	Thin	Tunn
+	Traditional (72.27 points/inch)	Traditionell (72,27 poäng/tum)
+	Transfer	Överföring
+	Triangle Tool	Triangelverktyg
+	Unsaved changes	Osparade ändringar
+	Uses the foreground and background colours.	Använder förgrunds- och bakgrundsfärgerna.
+	Web	Webb
+	Web Large	Webbstor
+	Web Minimum	Webbminimum
+	Web Most Common	Vanligaste webbfärgerna
+	WebP (lossless)	WebP (förlustfri)
+	Wet Edges	Våta kanter
+	Yellows	Gula
+	Zoom Tool	Zoomverktyg
+	{name} Properties	{name} egenskaper
+	Revert “{name}” to the last saved version? Your changes will be lost.	Återställa "{name}" till den senast sparade versionen? Dina ändringar kommer att gå förlorade.
+	Do you want to save the changes you made to “{name}” before quitting?	Vill du spara ändringarna du gjorde i "{name}" innan du avslutade?
+	Do you want to save the changes you made to “{name}” before closing?	Vill du spara ändringarna du gjorde i "{name}" innan du stängde?
+	Doc: {flat}/{layered}	Dokument: {flat}/{layered}
+	Scratch: {size}	Skrapa: {size}
+	Untagged {mode}	Omärkt {mode}
+	Invalid {mode} profile	Ogiltig {mode}-profil
+	Unnamed {mode} profile	Namnlösa: {mode} profil
+	{w} px x {h} px ({ppi} ppi)	{w} px x {h} px ({ppi} ppi)
+	{w} {unit} x {h} {unit} ({ppi} ppi)	{w} {unit} x {h} {unit} ({ppi} ppi)
+	Resolution: {dpi} pixels/inch	Upplösning: {dpi} pixlar/tum
+	Doc: {w} × {h} px	Dokument: {w} × {h} px
+	Frame {current} / {total}	Ram {current} / {total}
+	Count: {n}	Antal: {n}
+	BLANK DOCUMENT PRESETS ({n})	FÖRINSTÄLLNINGAR FÖR TOMT DOKUMENT ({n})
+	Constraints ({n})	Begränsningar ({n})
+	Align {what}	Rikta in {what}
+@plural	{n} Layer|{n} Layers	{n} lager|{n} lager
+@plural	{n} layer|{n} layers	{n} lager|{n} lager
+@plural	Group · {n} layer|Group · {n} layers	Grupp · {n} lager|Grupp · {n} lager
+	Additional plugins folder	Ytterligare plugins-mapp
+	Adobe	Adobe
+	Adobe rgb	Adobe rgb
+	Allow agent control	Tillåt agentkontroll
+	Allow scripts to connect	Tillåt skript att ansluta
+	Always	Alltid
+	Always create smart objects when placing	Skapa alltid smartobjekt vid placering
+	Animated zoom	Animerad zoom
+	Apply auto tone	Tillämpa automatisk ton
+	Ask	Fråga
+	Ask before saving layered tiff	Fråga innan du sparar lagertiff
+	Auto collapse icon panels	Fäll automatiskt ihop ikonpaneler
+	Auto show hidden panels	Visa dolda paneler automatiskt
+	Auto show home screen	Visa startskärmen automatiskt
+	Autosave	Autospara
+	Autosave minutes	Autosparningsintervall i minuter
+	Beep when done	Pip när du är klar
+	Bicubic automatic	Bikubisk automatisk
+	Bicubic sharper	Bikubisk skarpare
+	Bicubic smoother	Bikubisk mjukare
+	Bit depth	Bitdjup
+	Brush preview color	Förhandsvisningsfärg för pensel
+	Cache levels	Cachenivåer
+	Cache tile size	Storlek på cacheblock
+	Camera Raw Defaults	Camera Raw-standard
+	Canvas border	Kanvasram
+	Show canvas dots	Visa kanvasprickar
+	Canvas color	Kanvasfärg
+	Canvas custom color	Anpassad kanvasfärg
+	Color picker	Färgväljare
+	Color space	Färgrymd
+	Column width	Kolumnbredd
+	Concise	Kortfattad
+	Control port	Kontrollport
+	Convert to srgb	Konvertera till sRGB
+	Cursors	Markörer
+	Custom dark	Eget mörkt
+	Custom light	Eget ljust
+	Dark	Mörkt
+	Dark gray	Mörkgrå
+	Dashed lines	Streckade linjer
+	Destination	Mål
+	Detailed	Detaljerad
+	Disks	Diskar
+	Display p3	Display P3
+	Double click layer mask launches select and mask	Dubbelklicka på lagermasken startar markering och mask
+	Drop shadow	Slagskugga
+	Dynamic color sliders	Dynamiska färgreglage
+	East asian	Östasiatiskt
+	Effect cache mb	Effektcache (MB)
+	Enable flick panning	Aktivera sveppanorering
+	Enable floating document window docking	Aktivera dockning av flytande dokumentfönster
+	Enable narrow options bar	Aktivera smalt alternativfält
+	Enabled	Aktiverad
+	Enhanced Controls	Förbättrade kontroller
+	Export clipboard	Exportera urklipp
+	Extra large	Extra stor
+	File Handling	Filhantering
+	File path	Filsökväg
+	Fill new type layers with placeholder	Fyll nya textlager med platshållare
+	Font preview	Förhandsgranskning av teckensnitt
+	Full size tip	Penselspets i full storlek
+	Gamut warning color	Färg för omfångsvarning
+	Gamut warning opacity	Opacitet för omfångsvarning
+	Generator enabled	Generator aktiverad
+	Gif	GIF
+	Glossy	Blankt
+	Grid color	Rutnätsfärg
+	Grid colors	Rutnätsfärger
+	Grid size	Rutnätsstorlek
+	Grid style	Rutnätsstil
+	Grid unit	Rutnätsenhet
+	Gridline every	Rutnät varje
+	Guide color	Stödlinjefärg
+	Guide style	Stödlinjestil
+	Guides, Grid & Slices	Stödlinjer, rutnät och segment
+	Gutter	Ränna
+	History Log	Historiklogg
+	History states	Historiktillstånd
+	Ignore exif profile tag	Ignorera EXIF-profiltagg
+	Image interpolation	Bildinterpolation
+	Image previews	Bildförhandsvisningar
+	Integrations	Integrationer
+	Interface	Gränssnitt
+	Jpeg quality	JPEG-kvalitet
+	Jpg	JPG
+	Language	Språk
+	Large tabs	Stora flikar
+	Legacy compositing	Äldre kompositering
+	Light gray	Ljusgrå
+	Line	Linje
+	Lines	Linjer
+	Lossless	Förlustfri
+	Lowercase extension	Filtillägg med gemener
+	Maximize psd compatibility	Maximera PSD-kompatibilitet
+	Medium gray	Mellangrå
+	Memory usage mb	Minnesanvändning (MB)
+	Low resolution previews	Förhandsvisningar med låg upplösning
+	Missing glyph protection	Skydd mot saknade glyfer
+	Modern	Modernt
+	Nearest neighbor	Närmaste granne
+	Never	Aldrig
+	Normal tip	Normal penselspets
+	Open as smart object	Öppna som smart objekt
+	Open in camera raw	Öppna i Camera Raw
+	Open documents as tabs	Öppna dokument som flikar
+	Overscroll	Översvepning
+	Performance	Prestanda
+	Png	Png
+	Point size	Punktstorlek
+	Precise	Exakt
+	Preserve details	Bevara detaljer
+	Print resolution	Utskriftsupplösning
+	Pro	Pro
+	Pro light	Pro ljust
+	Pro light gray	Pro ljusgrått
+	Pro medium	Pro mellangrått
+	Pro photo	Pro foto
+	Quick export format	Snabbexportformat
+	Quick export location	Plats för snabbexport
+	Recent file count	Antal senaste filer
+	Recent files	Senaste filer
+	Recent fonts	Senaste teckensnitt
+	Recover on launch	Återställ vid start
+	Remember workspace changes	Kom ihåg ändringar i arbetsytan
+	Resize image during place	Ändra bildstorlek vid placering
+	Rotate view with trackpad	Rotera vyn med styrplattan
+	Same folder	Samma mapp
+	Save in background	Spara i bakgrunden
+	Scratch Disks	Arbetsdiskar
+	Screen	Skärm
+	Screen resolution	Skärmupplösning
+	Scrubby slider acceleration	Reglageacceleration
+	Sessions only	Endast denna session
+	Sharpen for	Skärpa för
+	Show channels in color	Visa kanaler i färg
+	Show crosshair in brush tip	Visa hårkorset i borstspetsen
+	Show extension panels	Visa tilläggspaneler
+	Show font names in english	Visa teckensnittsnamn på engelska
+	Show menu colors	Visa menyfärger
+	Show only crosshair while painting	Visa endast hårkorset när du målar
+	Show slice numbers	Visa skivnummer
+	Show tooltips	Visa verktygstips
+	Enable animations	Aktivera animationer
+	Show highlight on rollover	Visa markering vid hovring
+	Show bounding box when dragging layer	Visa begränsningsram när lager dras
+	System title bar	Systemets namnlist
+	Show transformation values	Visa transformationsvärden
+	Slice color	Segmentfärg
+	Smart guide color	Färg på smarta stödlinjer
+	Smart quotes	Typografiska citattecken
+	Snap vector tools and transforms to pixel grid	Fäst vektorverktyg och transformeringar mot pixelrutnätet
+	Srgb	sRGB
+	Standard	Standard
+	Studio	Studio
+	Studio light	Studio ljust
+	Adwaita	Adwaita
+	Adwaita dark	Adwaita mörk
+	Subdivisions	Underavdelningar
+	System	System
+	Text engine	Textmotor
+	Text file	Textfil
+	Tiny	Liten
+	Touch gestures	Beröringsgester
+	Transparency & Gamut	Transparens och omfång
+	Type units	Textenheter
+	UI font size	UI teckensnittsstorlek
+	UI scale	UI-skala
+	Units & Rulers	Enheter och linjaler
+	Use additional plugins folder	Använd ytterligare plugins-mapp
+	Use esc to commit	Använd Esc för att bekräfta
+	Use gpu	Använd GPU
+	Use legacy free transform	Använd äldre fri transformering
+	Use shift key for tool switch	Använd Skift för att växla verktyg
+	Vary round brush hardness on hud	Variera den runda penselns hårdhet med HUD-reglaget
+	Webp	WebP
+	World ready	Världsklar
+	Zoom clicked point to center	Centrera den klickade punkten vid zoomning
+	Zoom resizes windows	Zoom ändrar storlek på fönster
+	Zoom with scroll wheel	Zooma med scrollhjul
+	Zoom with trackpad pinch	Zooma med styrplattan nypa
+	Pass Through	Genomsläpp
+	Dissolve	Lös upp
+	Darker Color	Mörkare färg
+	Linear Dodge (Add)	Linjär färgskärm (Lägg till)
+	Lighter Color	Ljusare färg
+	Soft Light	Mjukt ljus
+	Hard Light	Hårt ljus
+	Vivid Light	Levande ljus
+	Linear Light	Linjärt ljus
+	Pin Light	Punktljus
+	Exclusion	Uteslutning
+	Divide	Dela
+	Luminosity	Luminans
+@plural	{n} sample|{n} samples	{n} prov|{n} prover
+	{added}, {removed} subtracted	{added}, {removed} subtraherad
+	Adjustment Preview	Förhandsgranskning av justering
+	Airbrush: keeps depositing paint while the pointer rests.	Airbrush: fortsätter att avsätta färg medan pekaren vilar.
+	Angle:	Vinkel:
+	Blend If	Blanda If
+	Close Tab Group	Stäng flikgrupp
+	Collapse	Fäll ihop
+	Collapse All Groups	Fäll ihop alla grupper
+	Collapse Panel Group	Fäll ihop panelgruppen
+	Collapse group  ({key}-click: all groups)	Fäll ihop gruppen ({key}-klicka: alla grupper)
+	Create new brush from the current settings	Skapa ny pensel från de nuvarande inställningarna
+	Create new brush from these settings	Skapa ny pensel från dessa inställningar
+	Update the current brush with these settings	Uppdatera den aktuella borsten med dessa inställningar
+	Delete brush	Ta bort borste
+	Drag the arrow to set the angle, the dots to set the roundness	Dra pilen för att ställa in vinkeln, prickarna för att ställa in rundheten
+	Expand	Expandera
+	Expand Panel Group	Expandera panelgrupp
+	Expand group  ({key}-click: all groups)	Expandera grupp ({key}-klicka: alla grupper)
+	Fade steps	Tona steg
+	Hide the layer's effects  ({key}-click: all layers)	Dölj lagrets effekter ({key}-klicka: alla lager)
+	Import Brushes… (.abr)	Importera penslar… (.abr)
+	Move Group Down	Flytta gruppen nedåt
+	Move Group Up	Flytta gruppen uppåt
+	Reset the brush to the defaults	Återställ borsten till standardinställningarna
+	Restore original size	Återställ originalstorlek
+	Roundness:	Rundhet:
+	Search Brushes	Sök borstar
+	Show the layer's effects  ({key}-click: all layers)	Visa lagrets effekter ({key}-klicka: alla lager)
+	Brush picker	Penselväljare
+	Erase	Radera
+	Right click with painting tools	Högerklicka med målarverktyg
+	System Info…	Systeminformation…
+	System Info	Systeminformation
+	More panels	Fler paneler
+	More documents	Fler dokument
+	These settings aren't available in PhotoCraft yet.	Dessa inställningar är inte tillgängliga i PhotoCraft än.
+	Graphics	Grafik
+	Reset GPU Backend	Återställ GPU-backend
+	Applies at next launch.	Gäller vid nästa lansering.
+	Click to sample the foreground colour  ·  {key}-click for background	Klicka för att prova förgrundsfärgen · {key}-klicka för bakgrund
+	{key}-click to set the source	{key}-klicka för att ställa in källan
+	{key} to subtract	{key} för att subtrahera
+	Clone source {n} ({key}-click with Clone Stamp to set)	Klonkälla {n} ({key}-klicka med klonstämpel för att ställa in)
+	Source: not set ({key}-click with Clone Stamp)	Källa: ej inställd ({key}-klicka med klonstämpel)
+	Pixel Layer	Pixellager
+	Type Layer	Skriv lager
+	Shape Layer	Formlager
+	Group Layer	Grupplager
+	Fill Layer	Fyll lager
+	Smart Object Layer	Smart Objektlager
+	Create Warped Text	Skapa skev text
+	Rasterize Smart Object	Rasterisera smarta objekt
+	Rasterize Fill Content	Rasterisera fyllningsinnehåll
+	Rasterize Layer Style	Rasterisera lagerstil
+	Unlock: picking a preset replaces these settings	Lås upp: att välja en förinställning ersätter dessa inställningar
+	Lock: keep these settings when picking another preset	Lås: behåll dessa inställningar när du väljer en annan förinställning
+	Diameter:	Diameter:
+	Hardness:	Hårdhet:
+	No brush presets	Inga förinställningar för borstar
+	Toggle the Brush Settings panel  (F5)	Växla panelen Penselinställningar (F5)
+	Create new brush preset from the current settings	Skapa ny penselförinställning från de nuvarande inställningarna
+	Brush Settings…  (F5): every option of this brush	Penselinställningar… (F5): alla alternativ för denna borste
+	Rename Brush…	Byt namn på borste…
+	Delete Brush	Ta bort borste
+	New Brush Preset…	Ny borstförinställning…
+	Brush Preset Options	Förinställda penselalternativ
+	Group name	Gruppnamn
+	Brush name	Borstens namn
+	Brush Name	Borstens namn
+	Brush Stroke	Penseldrag
+	Brush Tip	Borstspets
+	Off: the speed of the pointer sets the spacing	Av: hastigheten på pekaren ställer in avståndet
+	Tilt Scale	Lutningsskala
+	Brush Projection	Borsteprojektion
+	Apply the pen's tilt and rotation to the tip shape	Applicera pennans lutning och rotation på spetsformen
+	Mixer Brush	Mixerborste
+	Mixer Brush Tool	Mixerborsteverktyg
+	Color Replacement Tool	Färgersättningsverktyg
+	Wet	Blöt
+	Mix	Blanda
+	Wetness Jitter	Våta Jitter
+	Mix Jitter	Blanda Jitter
+	Show the layer mask as an overlay	Visa lagermasken som en överlagring
+	Toggle visibility	Växla synlighet
+	Unlink the mask from the layer	Ta bort länken mellan masken och lagret
+	Link the mask to the layer	Länka masken till lagret
+	Gradient	Övertoning
+	Gradient Options	Gradientalternativ
+	Align with layer	Rikta in med lagret
+	Reset Alignment	Återställ justering
+	Centre the gradient (offset 0, 0)	Centrera gradienten (offset 0, 0)
+# Gradient Editor window, opened from the options bar's gradient swatch.
+	Gradient Editor	Övertoningsredigerare
+	Gradient picker	Gradientväljare
+	Gradient stops	Övertoningsstopp
+	Save As Preset	Spara som förinställning
+	The gradient the Gradient tool paints with	Övertoningen som övertoningsverktyget använder
+	Adds the current gradient to the Gradients panel	Lägger till den aktuella övertoningen i panelen Övertoningar
+	The current gradient (pick one in Window › Gradients)	Aktuell övertoning (välj en i Fönster › Övertoningar)
+	Select a type layer to edit its character and paragraph settings.	Välj ett typlager för att redigera dess tecken- och styckeinställningar.
+	Text color	Textfärg
+	Type Options	Textalternativ
+	Anti-aliasing method	Kantutjämningsmetod
+	Horizontal type	Horisontell text
+	Vertical type	Vertikal text
+	Fill path with foreground color	Fyll banan med förgrundsfärgen
+	Stroke path with brush	Rita kontur längs banan med penseln
+	Load path as a selection	Ladda banan som markering
+	Make work path from selection	Skapa arbetsbana från markering
+	Add vector mask	Lägg till vektormask
+	Create new path	Skapa ny bana
+	Delete path	Ta bort bana
+	Delete vector mask	Ta bort vektormask
+	CPU (no GPU acceleration)	CPU (ingen GPU-acceleration)
+	DirectX 12	DirectX 12
+	GPU backend	GPU-backend
+	Linux display server	Linux-skärmserver
+	X11	X11
+	Metal	Metall
+	OpenGL	OpenGL
+	Use tablet pressure	Använd tabletttryck
+	Vulkan	Vulkan
+	Alt-click to define a source point to clone from	Alt-klicka för att definiera en källpunkt att klona från
+	No path to make a selection from: draw one with the Pen tool or select one in the Paths panel.	Ingen sökväg att göra ett urval från: rita en med pennverktyget eller välj en på panelen Banor.
+	Cancel opening	Avbryt öppning
+	Cancelled opening {name}	Öppning av {name} avbröts
+	Developing {name}	Framkallar {name}
+	Cancelled {label}	{label} avbröts
+	Esc to cancel	Esc för att avbryta
+	Opened {name}	{name} öppnades
+	Opening {name}	Öppnar {name}
+	Saved {name}	{name} sparades
+	Saving {name}	Sparar {name}
+	Saving {percent}	Sparar {percent}
+	A save to {name} is still running; try again when it finishes	En sparning till {name} pågår fortfarande; försök igen när den är klar
+	{label} is writing the file and can no longer be cancelled	{label} skriver filen och kan inte längre avbrytas
+	Opening {name}…	Öppnar {name}…
+	Opening…	Öppnar…
+	Reading…	Läser…
+	Working…	Arbetar…
+	Color Range	Färgomfång
+	Adaptive Wide Angle	Adaptiv vidvinkel
+	Chalk & Charcoal	Krita & Kol
+	Charcoal	Kol
+	Chrome	Krom
+	Conté Crayon	Contékrita
+	Graphic Pen	Grafisk penna
+	Halftone Pattern	Halvtonsmönster
+	Note Paper	Anteckningspapper
+	Photocopy	Fotokopia
+	Plaster	Gips
+	Reticulation	Retikulation
+	Stamp	Stämpel
+	Torn Edges	Slitna kanter
+	Water Paper	Vattenpapper
+	Move	Flytta
+	Pencil	Blyertspenna
+	Clone Stamp	Klonstämpel
+	Dodge	Efterbelysning
+	Burn	Bränn
+	Quick Selection	Snabbval
+	History Brush	Historieborste
+	Color Replacement	Färgbyte
+	New Group	Ny grupp
+	Layer Comp	Lagerkomp
+	Alpha	Alfa
+	Make	Gör
+	Model	Modell
+	F	F
+	Artist	Konstnär
+	Spot Color	Fläckfärg
+	Roman	Roman
+	Bold Italic	Fet kursiv
+	Justification	Motivering
+	Symbols	Symboler
+	Punctuation	Skiljetecken
+	Make Work Path	Gör arbetsväg
+	Make Selection	Gör val
+	Fill Path	Fyll Path
+	Stroke Path	Rita kontur längs bana
+	Delete Path	Ta bort sökväg
+	W	W
+	H	H
+	Ruler	Linjal
+	New Layer Comp	Ny lagerkomposition
+	Duplicate Layer Comp	Duplicera lagerkomposition
+	Rename Layer Comp	Byt namn på lagerkomposition
+	Apply Layer Comp	Tillämpa lagerkomposition
+	Update Layer Comp	Uppdatera lagerkomposition
+	Method	Metod
+	Author	Författare
+	Software	Programvara
+	Pencil Tool	Blyertspenneverktyg
+	Pixel	Pixel
+	Adjustment	Justering
+	Drag (lasso) or click points (polygonal) · {add} add · {sub} subtract	Dra (lasso) eller klicka på punkter (polygonala) · {add} addera · {sub} subtrahera
+	Drag a crop box · drag inside to move · edges resize ({ratio} ratio, {centre} centre) · Space moves while drawing · arrows nudge · X swaps orientation · {commit} commits · Esc cancels	Dra en beskärningsruta · dra inuti för att flytta · kanter ändra storlek ({ratio}-förhållande, {centre} mitten) · Mellanslag flyttas medan du ritar · pilarna knuffar · X byter orientering · {commit} commits · Esc avbryter
+	{mode} Color · {bits} bit	{mode} Färg · {bits} bit
+	Scrubby Zoom	Snabb zoom
+	Auto Erase	Automatisk radering
+	Color Adaptation	Färganpassning
+	Preserve Transparency	Bevara transparens
+	New Style…	Ny stil…
+	shortcut	genväg
+	Saved	Sparad
+	Arc	Båge
+	Arch	Arch
+	Bulge	Utbuktning
+	Shell Lower	Nedre skal
+	Shell Upper	Övre skal
+	Flag	Flagga
+	Fish	Fisk
+	Wave	Våga
+	Rise	Stigande
+	Inflate	Blås upp
+	Twist	Vrid
+	Squeeze	Pressa ihop
+	Mask	Mask
+	Channel	Kanal
+	Rectangle	Rektangel
+	New Channel	Ny kanal
+	Save Selection	Spara urval
+	Load Selection	Ladda val
+@id	edit.purge.undo	edit.purge.undo
+	Rendering Mode	Renderingsläge
+	Automatic (recommended)	Automatiskt (rekommenderas)
+	CPU / Compatibility	CPU / kompatibilitet
+	Automatic uses GPU acceleration when available and falls back to CPU rendering on errors.	Automatiskt läge använder GPU-acceleration när den är tillgänglig och växlar till CPU-rendering vid fel.
+	Switched to CPU rendering	Växlade till CPU-rendering
+	GPU acceleration could not continue. Your documents are unchanged.	GPU-accelerationen kunde inte fortsätta. Dina dokument är oförändrade.
+	PhotoCraft is using the CPU image compositor. The window may still use your graphics adapter.	PhotoCraft använder processorns bildkompositör. Fönstret kan fortfarande använda din grafikadapter.
+	Retry GPU requires a restart. Save your work first.	Ett nytt försök med GPU kräver omstart. Spara ditt arbete först.
+	Keep Using CPU	Fortsätt använda CPU
+	Retry GPU	Försök med GPU igen
+	Advanced	Avancerat
+	GPU Backend	GPU-backend
+	Details	Detaljer
+	Rendering mode	Återgivningsläge
+	Freeze Lasso: drag to freeze an area, Alt-drag to thaw it (L)	Frys lasso: dra för att frysa ett område och Alt-dra för att tina upp det (L)
+	3 x 3	3 x 3
+	4 x 4	4 x 4
+	5 x 5	5 x 5
+	Camera Raw Filter ({layer})	Camera Raw-filter ({layer})
+	Camera Raw ({name})	Camera Raw ({name})
+	Edit Type	Redigera typ
+	Grid:	Rutnät:
+	Highlight Clipping Warning (O)	Markera högdagerklippning (O)
+	Lasso around an area, then drag the selection	Lasso runt ett område och dra sedan markeringen
+	Transform On Drop	Transformera vid släpp
+	Scale or rotate the moved area, then press {key}	Skala eller rotera det flyttade området och tryck sedan på {key}
+	Now drag the selection onto another area	Dra nu markeringen till ett annat område
+	Patch:	Patch:
+	Shadow Clipping Warning (U)	Varning för skuggklippning (U)
+	Show Lab Color Readouts	Visa labbfärgavläsningar
+	Show Red at 3 o'clock	Visa rött vid klockan 3
+	Show Selected Region	Visa vald region
+	Show Skin Tone Indicator	Visa hudtonsindikator
+	Show Vectorscope	Visa vektorskop
+	Tone Histogram	Tonhistogram
+	75%	75 %
+	80%	80 %
+	85%	85 %
+	90%	90 %
+	95%	95 %
+	125%	125 %
+	150%	150 %
+	175%	175 %
+	250%	250 %
+	300%	300 %
+	No patterns	Inga mönster
+	Enable {name}	Aktivera {name}
+	Hold Alt while drawing for straight segments	Håll Alt nedtryckt medan du ritar för raka segment
+	Drag or click polygon points · hold Alt during lasso for straight segments · {add} add · {sub} before drawing subtracts	Dra eller klicka på polygonpunkter · håll Alt under lasso för raka segment · {add} addera · {sub} innan du drar subtraherar
+	Extend	Förläng
+	Structure:	Struktur:
+	Content-Aware Move Tool	Innehållsmedvetet flyttaverktyg
+	TIFF Options	TIFF-alternativ
+	Targa Options	Targa-alternativ
+	24 bits/pixel	24 bitar/pixel
+	32 bits/pixel	32 bitar/pixel
+	Including layers will increase file size.	Om du inkluderar lager ökar filstorleken.
+	Discard Layers and Save a Copy	Kasta lagren och spara en kopia
+	Don't show again	Visa inte igen
+	Save failed: {error}	Det gick inte att spara: {error}
+	Save cancelled	Spara avbröts
+
+# Layer Style dialog: style presets and per-effect defaults
+	Style {name} saved	Stil {name} sparad
+	Make Default	Gör som standard
+	Reset to Default	Återställ till standard
+	Couldn't place {name}: {error}	Det gick inte att placera {name}: {error}
+	Full-resolution preview unavailable	Förhandsvisning i full upplösning är inte tillgänglig
+	Magnetic Lasso Tool	Magnetiskt lassoverktyg
+	Frequency	Frekvens
+	Use tablet pressure to change pen width	Använd penntryck för att ändra pennbredd
+
+# About ▸ Contributors / Models (credits, craftrules standards/contributors.md)
+	About	Om
+	Contributors	Bidragsgivare
+	Models	Modeller
+	Sort	Sortera
+	Username	Användarnamn
+	Display name	Visningsnamn
+	Real name	Verkligt namn
+	Reverse the order	Vänd ordningen
+	Grab bag	Diverse
+	Table	Tabell
+	Name (A–Z)	Namn (A–Z)
+	Merged PRs	Sammanfogade PR:er
+	Commits	Incheckningar
+	Lines added	Rader tillagda
+	Lines deleted	Rader borttagna
+	Line delta	Nettoändring av rader
+	Binary assets added	Binära resurser tillagda
+	Binary assets removed	Binära resurser borttagna
+	First commit	Första incheckningen
+	First	Första
+	Last commit	Senaste incheckningen
+	Last	Senaste
+	Contributors: {contributors} · Commits: {commits}	Bidragsgivare: {contributors} · incheckningar: {commits}
+	No contributor data was built into this copy.	Denna kopia innehåller inga inbyggda bidragsgivaruppgifter.
+	No model credits were built into this copy.	Denna kopia innehåller inga inbyggda modelluppgifter.
+	Company	Företag
+	Version	Version
+	% of all commits	% av alla incheckningar
+	Lines +/−	Rader +/−
+	@{login}: {prs} PRs, {commits} commits, +{added} / −{deleted} lines (Δ {delta}), +{binAdded} / −{binDeleted} binary assets, {first} – {last}	@{login}: {prs} PR:er, {commits} incheckningar, +{added} / −{deleted} rader (Δ {delta}), +{binAdded} / −{binDeleted} binära resurser, {first} – {last}
+
+# Swatches panel
+	Create new swatch	Skapa ny färgruta
+	New Swatch…	Ny färgruta…
+	New Swatch Group…	Ny färgrutegrupp…
+	Import Swatches…	Importera färgrutor…
+	Replace Swatches…	Ersätt färgrutor…
+	Export Swatches…	Exportera färgrutor…
+	Export Swatches for Exchange…	Exportera färgrutor för utbyte…
+	Reset Swatches	Återställ färgrutor
+	Add to Swatches	Lägg till i färgrutor
+# Layer Style > Blending Options (Advanced Blending)
+	Blend If:	Blanda om:
+	Channels:	Kanaler:
+	Knockout	Utslagning
+	Apply At Canvas Bounds	Tillämpa vid kanvasens gränser
+
+# Shared screen eyedropper and text Color Picker (#1128).
+	Color Picker (Text Color)	Färgväljare (textfärg)
+	Color Picker ({name})	Färgväljare ({name})
+	Color Picker (Fill Color)	Färgväljare (fyllningsfärg)
+	Fill color	Fyllningsfärg
+	Color Picker (Stroke Color)	Färgväljare (konturfärg)
+	Stroke color	Konturfärg
+	Pick screen color	Välj skärmfärg
+	Sample a pixel anywhere on the screen	Prova en pixel var som helst på skärmen
+	Click to pick · Esc to cancel	Klicka för att välja · Esc för att avbryta
+	Pick a screen pixel or press Esc to cancel	Välj en skärmpixel eller tryck på Esc för att avbryta
+	Scroll to zoom	Bläddra för att zooma
+	Drag to pan · Scroll to zoom · Double-click to fit	Dra för att panorera · rulla för att zooma · dubbelklicka för att anpassa
+	Show/Hide All Panels	Visa/dölj alla paneler
+	Show/Hide Panels	Visa/dölj paneler
+	Could not open	Kunde inte öppna
+	{path}: the path is not valid Unicode; rename the file and open it again.	{path}: sökvägen är ogiltig Unicode; byt namn på filen och öppna den igen.
+
+# Fill dialog, layer style contours and Image Size
+	Contents:	Innehåll:
+	Custom Pattern:	Anpassat mönster:
+	Foreground Color	Förgrundsfärg
+	Color…	Färg…
+	50% Gray	50% grått
+	{size} (was {old})	{size} (var {old})
+	Cone	Kotte
+	Cone (Inverted)	Kon (omvänd)
+	Domed	Kupolformad
+	Domed (Inverted)	Kupolformad (omvänd)
+	Diagonal (Descending)	Diagonal (fallande)
+	Contour Editor	Konturredigerare
+	Anti-aliased	Kantutjämning
+	Corner	Hörn
+	Gloss Contour	Glans kontur
+	Contour	Kontur
+	Cone - Inverted	Kon - Inverterad
+	Cove - Deep	Bukt – djup
+	Cove - Shallow	Cove - Grunt
+	Gaussian	Gaussisk
+	Half Round	Halv runda
+	Ring	Ring
+	Ring - Double	Ring - Dubbel
+	Rolling Slope - Descending	Rullande sluttning - fallande
+	Rounded Steps	Rundade steg
+	Sawtooth 1	Sågtand 1
+
+	Red Eye Tool	Verktyg för röda ögon
+	Red Eye	Röda öga
+	Pupil Size	Pupillstorlek
+	Darken Amount	Mörkningsgrad
+	Click a red pupil to neutralize it	Klicka på en röd pupill för att neutralisera den
+	open source	öppen källkod
+	…and {n} more	…och {n} mer
+
+	Eyedroppers:	Pipetter:
+	Set Black Point	Ställ in svart punkt
+	Set Neutral Gray Point	Ställ in neutral gråpunkt
+	Set White Point	Ställ in vitpunkt
+	Unavailable in this color mode	Ej tillgänglig i detta färgläge
+	Selection Preview:	Förhandsgranskning av urval:
+	Black Matte	Svart matt
+	White Matte	Vit matt
+
+# Layer colour labels.
+layerLabel	No Color	Ingen färg
+	Seafoam	Sjöskum
+	Indigo	Indigo
+	Fuchsia	Fuchsia
+	Violet	Violett
+	Large document: redrawing on the CPU	Stort dokument: rita om på processorn
+	This redraw took {seconds} s on the CPU.	Denna omritning tog {seconds} s på processorn.
+	Edits that change the whole document, such as a layer's blend mode, opacity or visibility, redraw all of it.	Redigeringar som ändrar hela dokumentet, till exempel ett lagers blandningsläge, opacitet eller synlighet, ritar om allt.
+	Its layers don't fit the GPU memory budget. Raising Memory usage in Preferences › Performance raises the budget, up to a quarter of this computer's memory.	Dess lager passar inte GPU-minnesbudgeten. Öka minnesanvändningen i Inställningar › Prestanda höjer budgeten, upp till en fjärdedel av datorns minne.
+	The GPU compositor wasn't used: {reason}	GPU-kompositören användes inte: {reason}
+cameraRaw	Light	Ljus
+fontWeight	Thin	Tunn
+fontWeight	ExtraLight	Extra ljus
+fontWeight	Light	Ljus
+fontWeight	Regular	Normal
+fontWeight	Medium	Medel
+fontWeight	SemiBold	Halvfet
+fontWeight	Bold	Fet
+fontWeight	ExtraBold	Extra fet
+fontWeight	Black	Svart
+fontWeight	Italic	Kursiv
+
+# Pattern Stamp tool
+	Pattern Stamp Tool	Mönsterstämpelverktyg
+	Pattern Stamp	Mönsterstämpel
+	Impressionist	Impressionistisk
+	Rotate View	Rotera vy
+	Rotate View Tool	Rotera vyverktyget
+	Reset View	Återställ vy
+	Drag around the centre to rotate the view  ·  Shift constrains to 15°	Dra runt mitten för att rotera vyn · Skift begränsar till 15°
+
+# Painting symmetry presets.
+	Dual Axis	Dubbelaxel
+	Diagonal	Diagonal
+	Transform Symmetry	Transformera symmetri
+
+# Eyedropper Sample Size and Sample (#1649).
+	Point Sample	Enstaka pixel
+	3 by 3 Average	Medelvärde 3 × 3
+	5 by 5 Average	Medelvärde 5 × 5
+	11 by 11 Average	Medelvärde 11 × 11
+	31 by 31 Average	Medelvärde 31 × 31
+	51 by 51 Average	Medelvärde 51 × 51
+	101 by 101 Average	Medelvärde 101 × 101
+	Sample Size:	Provstorlek:
+	All Layers No Adjustments	Alla lager utan justeringar
+	Current & Below No Adjustments	Aktuellt och underliggande utan justeringar
+	Show Sampling Ring	Visa provtagningsring
+
+# Color Picker warnings
+	Out of gamut for printing: click for the nearest printable colour	Utanför omfång för utskrift: klicka för närmaste utskrivbara färg
+	Not a web colour: click for the nearest web colour	Inte en webbfärg: klicka för närmaste webbfärg
+	Color to Alpha…	Färg till alfa…
+	Transparency Threshold	Transparenströskel
+	Opacity Threshold	Opacitetströskel
+	PhotoCraft — Screen Color Picker	PhotoCraft — Skärmfärgväljare
+
+	Rasterize svg groups deeper than	Rasterisera svg-grupper djupare än
+	0 turns this threshold off; SVG groups nested deeper than 100 levels are always rasterized.	0 stänger av denna tröskel; SVG-grupper kapslade djupare än 100 nivåer rastreras alltid.
+	Rule of Thirds	Tredjeregel
+	Triangle	Triangel
+	Golden Ratio	Gyllene snittet
+	Golden Spiral	Gyllene spiral
+	Auto Show Overlay	Visa överlägg automatiskt
+	Always Show Overlay	Visa alltid överlägg
+	Never Show Overlay	Visa aldrig överlägg
+	Cycle Overlay	Växla överlägg
+	Cycle Orientation	Växla orientering
+	Set the overlay options for the Crop tool	Ställ in överlagringsalternativen för beskärningsverktyget
+	Alt-click went to the desktop, which moves windows with Alt-drag. Set its window-move key to Super, or latch Alt in Window › Modifier Keys.	Alt-klick gick till skrivbordet, som flyttar fönster med Alt-dra. Ställ in dess fönster-flyttningsknapp till Super, eller spärra Alt i Window › Modifier Keys.
+
+# Shared Layer Style color picker
+	Color Picker (Layer Style Color)	Färgväljare (lagerstilsfärg)
+	Auto Hide Notifications	Dölj aviseringar automatiskt
+	Notification Duration (seconds)	Aviseringslängd (sekunder)
+	Appearance Mode	Utseendeläge
+	Dark Theme	Mörkt tema
+	Light Theme	Ljust tema
+	Pro Medium	Pro mellangrå
+	Studio Light	Studio ljust
+	Next Appearance Mode	Nästa utseendeläge
+	Sync with system	Synkronisera med systemet
+	Active	Aktiv
+	Color Picker (Solid Color)	Färgväljare (enfärgad)
+	Straighten the image by drawing a line on it	Räta ut bilden genom att rita en linje på den
+	Set additional Crop options	Ange fler beskärningsalternativ
+	Show Cropped Area	Visa beskuret område
+	Enable Crop Shield	Aktivera beskärningsskydd
+	Match Canvas	Anpassa till kanvas
+	Auto Adjust Opacity	Justera opacitet automatiskt
+	Crop Shield color	Färg på beskärningsskydd
+	Color Picker (Crop Shield Color)	Färgväljare (Crop Shield Color)
+	From Center	Från mitten
+	Link radii	Länkradier
+	Star Ratio:	Stjärnförhållande:
+	Create Rectangle	Skapa rektangel
+	Create Ellipse	Skapa ellips
+	Create Triangle	Skapa triangel
+	Create Polygon	Skapa polygon
+	Pressure curve	Tryckkurva
+	Click to add a point, right-click to remove	Klicka för att lägga till en punkt, högerklicka för att ta bort
+	Some brush presets could not be loaded	Vissa penselförinställningar kunde inte läsas in
+	Retry saving presets	Försök spara förinställningarna igen
+	Brush preset changes are not saved: {error}	Ändringar av penselförinställningar har inte sparats: {error}
+	Keep this tab open to retain your brushes.	Håll den här fliken öppen för att behålla dina penslar.
+	Browser storage is unavailable; brushes are session-only. Keep this tab open to retain them.	Webbläsarlagring är inte tillgänglig; penslar är endast för sessioner. Håll den här fliken öppen för att behålla dem.
+	Saving brush presets… Keep this tab open until saving finishes.	Sparar penselförinställningar… Håll fliken öppen tills sparandet är klart.
+	Reflect	Reflektera
+	Glow	Glöd
+	Negation	Negation
+	XOR	XOR
+	Color Burn (Paint.NET)	Färgbränning (Paint.NET)
+	Color Dodge (Paint.NET)	Färgskärm (Paint.NET)
+	Stroke Options	Konturalternativ
+	Solid	Heldragen
+	Dashed	Streckad
+	Dotted	Prickad
+	Alignment	Justering
+	Caps	Linjeändar
+	Butt / Flat	Platt avslut
+	Corners	Hörn
+	Miter	Geringsskarv
+	Round	Runt
+	Bevel	Fasad
+	Miter limit	Geringsgräns
+	Dashed line	Streckad linje
+	Dash	Streck
+	Gap	Mellanrum
+	Dash / gap lengths × stroke width	Streck- och mellanrumslängder × konturbredd
+	Add pair	Lägg till par
+	Remove pair	Ta bort par
+	Dash offset	Streckförskjutning
+	Open paths use centered strokes	Öppna banor använder centrerade konturer
+	Use finite lengths and a positive pattern total	Använd ändliga längder och ett positivt mönstertotal
+	No subject found — try Object Selection or the Lasso	Inget motiv hittades – prova objektmarkering eller lassoverktyget
+	Quick Selection found nothing there	Snabbmarkering hittade inget där
+	Object Selection found nothing there — try a tighter rectangle	Objektmarkering hittade inget där – prova en snävare rektangel
+	No subject found — try a rectangle around the object	Inget motiv hittades – prova att rita en rektangel runt objektet
+	Click the first point or press {key} to close · {del} removes a point · Esc cancels	Klicka på den första punkten eller tryck på {key} för att stänga · {del} tar bort en punkt · Esc avbryter
+	Click, then move along an edge · click to fasten a point · {alt}-click for a straight segment · double-click to close	Klicka och flytta sedan längs en kant · klicka för att fästa en punkt · {alt}-klicka för ett rakt segment · dubbelklicka för att stänga
+	Follows only edges this close to the pointer ([ and ] change it)	Följer bara kanter så nära pekaren ([ och ] ändra det)
+	Higher values follow only edges that contrast sharply with their surroundings	Högre värden följer endast kanter som kontrasterar skarpt med omgivningen
+	How often fastening points are placed by themselves	Hur ofta fästpunkter placeras av sig själva
+	Appearance Settings…	Utseendeinställningar…
+	Add to favorites	Lägg till i favoriter
+	Remove from favorites	Ta bort från favoriter
+# File Info ▸ Camera Data (read-only EXIF fields; "Make" is the camera maker, not the verb).
+	Camera Data	Kameradata
+cameraData	Make	Tillverkare
+cameraData	Model	Modell
+cameraData	Date Taken	Taget datum
+cameraData	Exposure	Exponering
+cameraData	F-Stop	F-Stopp
+cameraData	ISO Speed	ISO-hastighet
+cameraData	Focal Length	Brännvidd
+cameraData	Focal Length (35 mm)	Brännvidd (35 mm)
+cameraData	Lens	Lins
+# Shared panel docking
+	Activate Panel	Aktivera panelen
+	Change Panel Group	Ändra panelgrupp
+	Change Panel Layout	Ändra panellayout
+	Close Panel	Stäng panelen
+	Dock Panel	Fäst panel
+	Float Panel	Lösgör panel
+	Move Panel	Flytta panel
+	Group with	Gruppera med
+	Panel menu	Panelmeny
+	Resize panel window	Ändra storlek på panelfönstret
+	Resize panels	Ändra storlek på paneler
+	Use Classic Mode	Använd klassiskt läge
+	Auto Center Preview	Centrera förhandsgranskningen automatiskt
+	Next Document	Nästa dokument
+	Previous Document	Tidigare dokument
+	W x H x Resolution	B x H x Upplösning
+	Front Image	Främre bild
+	Frame Tool	Ramverktyg
+	Create a new rectangular frame	Skapa en ny rektangulär ram
+	Create a new elliptical frame	Skapa en ny elliptisk ram
+	Include in playback	Inkludera i uppspelning
+	Perspective Crop Tool	Perspektiv beskärningsverktyg
+	Show Grid	Visa rutnät
+	Drag a box or click four corners · drag the corners onto the edges of a skewed shape · {commit} commits · Esc cancels	Dra en ruta eller klicka på fyra hörn · dra hörnen till kanterna på en sned form · {commit} befäster · Esc avbryter
+	Artboard Tool	Rityteverktyg
+	Make Portrait	Gör porträtt
+	Make Landscape	Gör landskap
+	Add New Artboard	Lägg till ny rityta
+	Freeform Pen Tool	Frihands-pennverktyg
+	Curvature Pen Tool	Kurvpennverktyg
+	Curve Fit:	Kurvanpassning:
+	Drag: draw freehand · {alt}-click: straight segment · Release on the start point: close	Dra: rita på fri hand · {alt}-klicka: rakt segment · Släpp på startpunkten: stäng
+	Click: smooth point · Double-click: corner · Drag a point: move · Click first point: close · {key} finish	Klicka: jämn punkt · Dubbelklicka: hörn · Dra en punkt: flytta · Klicka på första punkten: stäng · {key} avsluta
+	New Crop Preset…	Ny beskärningsförinställning…
+	Delete Crop Preset…	Ta bort beskärningsförinställning…
+	Select the crop presets to delete:	Välj beskärningsförinställningarna att radera:
+	Select the crop presets to delete	Välj beskärningsförinställningarna som ska raderas
+	Enter a name for the crop preset	Ange ett namn för beskärningsförinställningen
+	There is no crop size or ratio to save	Det finns ingen beskärningsstorlek eller något bildförhållande att spara
+	Scale:	Skala:
+	Snap to Origin	Fäst mot origo
+	Search settings…	Sökinställningar…
+	No matching settings	Inga matchande inställningar
+	Loading fonts…	Läser in teckensnitt…
+	Tool	Verktyg
+	Simulate Pressure	Simulera tryck
+	Stroke Path…	Rita kontur längs bana…
+	Background Eraser	Bakgrundssuddgummi
+	Healing Brush	Lagningspensel
+	Spot Healing Brush	Punktlagningspensel
+	Smudge	Smetning
+	Sponge	Svamp
+	Amount:	Belopp:
+	Protect:	Skydda:
+	Protect skin tones	Skydda hudtoner
+	Edit points to modify the curve	Redigera punkter för att ändra kurvan
+	Draw to modify the curve	Rita för att ändra kurvan
+curves	Smooth	Jämn
+	Smooth the curve values	Jämna ut kurvvärdena
+	Drag to draw the curve · {key}-click draws a straight line	Dra för att rita kurvan · {key}-klick ritar en rak linje
+	Edit Plane	Redigera plan
+	Create Plane	Skapa plan
+	Grid Size:	Rutnätsstorlek:
+	Vanishing Point: click four corners to create a plane	Flyktpunkt: klicka på fyra hörn för att skapa ett plan
+	Vanishing Point is not active	Flyktpunkt är inte aktiv
+	Apply Vanishing Point ({key})	Tillämpa flyktpunkt ({key})
+	Fix the red plane first: its corners must form a convex quad	Fixa det röda planet först: dess hörn måste bilda en konvex fyrkant
+# Select and Mask view modes (#1754)
+	Onion Skin	Genomskinligt överlägg (lökskinn)
+	Marching Ants	Markeringskontur
+	On Black	På svart
+	On White	På vitt
+	On Layers	På lager
+	Show Edge	Visa kant
+	Show Original	Visa original
+	F cycles the views; hold X to see the image	F växlar vyerna; håll X för att se bilden
+# Select and Mask Refine Edge Brush (#2972)
+	Refine Edge Brush (R)	Förfina kantpensel (R)
+	Expand Detection Area	Utöka detektionsområde
+	Restore Original Edge	Återställ originalkanten
+	Paint over hair or fur on the image; Alt paints the other mode	Måla över hår eller päls på bilden; Alt målar det andra läget
+	Clear Brush Strokes	Rensa penseldrag
+	Show rulers	Visa linjaler
+
+# Color Sampler (added with the i18n coverage repair)
+	Click to place · Alt-click or drag off-canvas to remove	Klicka för att placera · Alt-klicka eller dra utanför arbetsytan för att ta bort
+	No document open	Inget dokument öppet
+	{n} of {max} sample points	{n} av {max} provpunkter
+# Print dialog (#2697)
+	Emulsion Down	Emulsionssidan nedåt
+	Functions	Funktioner
+	Print Resolution:	Utskriftsupplösning:
+	Use Previous Layer to Create Clipping Mask	Använd föregående lager för att skapa urklippsmask
+	Fill with {mode}-neutral color (white)	Fyll med {mode}-neutral färg (vit)
+	Fill with {mode}-neutral color (black)	Fyll med {mode}-neutral färg (svart)
+	Fill with {mode}-neutral color (50% gray)	Fyll med {mode}-neutral färg (50 % grå)
+	(No neutral color exists for {mode} mode.)	(Det finns ingen neutral färg för {mode}-läget.)
+	Apply mask to layer before removing?	Applicera masken på lagret innan du tar bort?
+	The layer or its mask changed. Drag the mask onto the Trash again.	Lagret eller dess mask ändrades. Dra masken till papperskorgen igen.
+	Delete the vector mask?	Ta bort vektormasken?
+# Counted status messages and labels (#3454; adapted from PR #3821)
+@plural	Exported {n} swatch to {file}|Exported {n} swatches to {file}	Exporterade {n} färgruta till {file}|Exporterade {n} färgrutor till {file}
+@plural	Imported {n} brush from {group}|Imported {n} brushes from {group}	Importerade {n} pensel från {group}|Importerade {n} penslar från {group}
+@plural	Imported {n} swatch from {file}|Imported {n} swatches from {file}	Importerade {n} färgruta från {file}|Importerade {n} färgrutor från {file}
+@plural	Played {n} step|Played {n} steps	Spelade {n} steg|Spelade {n} steg
+@plural	Updated {n} linked smart object changed on disk|Updated {n} linked smart objects changed on disk	Uppdaterade {n} länkat smartobjekt som hade ändrats på disken|Uppdaterade {n} länkade smartobjekt som hade ändrats på disken
+@plural	Saved for Web: {n} file|Saved for Web: {n} files	Sparade för webben: {n} fil|Sparade för webben: {n} filer
+@plural	{n} layer recorded by this comp was deleted. Update the comp, or clear the warning.|{n} layers recorded by this comp were deleted. Update the comp, or clear the warning.	Lager som ingick i den här kompositionen har tagits bort: {n}. Uppdatera kompositionen eller rensa varningen.|Lager som ingick i den här kompositionen har tagits bort: {n}. Uppdatera kompositionen eller rensa varningen.
+@plural	{n} plane|{n} planes	{n} plan|{n} plan
+@plural	{n} preset|{n} presets	{n} förinställning|{n} förinställningar
+@plural	{n} sample point removed|{n} sample points removed	Provpunkt borttagen: {n}|Provpunkter borttagna: {n}
+@plural	{n} slice|{n} slices	{n} skiva|{n} skivor
+@plural	{n} step|{n} steps	{n} steg|{n} steg
+@plural	{warning} (+{n} more brush preset warning)|{warning} (+{n} more brush preset warnings)	{warning} (+{n} ytterligare varning för penselförinställning)|{warning} (+{n} ytterligare varningar för penselförinställningar)
+@plural	{what} with {n} warning|{what} with {n} warnings	{what} med {n} varning|{what} med {n} varningar
+# View › Guides › New Guide… › Color
+	Light Blue	Ljusblå
+	Light Red	Ljusröd
+	Medium Blue	Mellanblå
+	Light Gray	Ljusgrå
+	Object Finder	Objektsökare
+	No object found there — drag a rectangle around it	Inget objekt hittades där – dra en rektangel runt det
+	Remove after each stroke	Ta bort efter varje penseldrag
+	Apply the removal ({key})	Tillämpa borttagningen ({key})
+	Strokes to remove: {n} (Enter applies, Esc cancels)	Penseldrag att ta bort: {n} (Enter tillämpar, Esc avbryter)
+	Clear Brush Controls	Rensa borstkontroller
+	Reset All Locked Settings	Återställ alla låsta inställningar
+	Copy Texture to Other Tools	Kopiera textur till andra verktyg
+
+# Actions panel: Load/Save Actions (.atn) and kept Photoshop steps
+	Load Actions…	Ladda åtgärder…
+	Save Actions…	Spara åtgärder…
+	{name} (Photoshop)	{name} (Photoshop)
+	{message} ({note})	{message} ({note})
+@plural	Loaded {n} action from {file}|Loaded {n} actions from {file}	Laddade {n} action från {file}|Laddade {n}-åtgärder från {file}
+@plural	{n} step has no PhotoCraft equivalent yet|{n} steps have no PhotoCraft equivalent yet	{n} step har ingen PhotoCraft-motsvarighet ännu|{n} steg har ingen PhotoCraft-motsvarighet ännu
+@plural	Saved {n} action to {file}|Saved {n} actions to {file}	Sparad {n}-åtgärd till {file}|Sparade {n}-åtgärder till {file}
+@plural	{n} step with no Photoshop equivalent left out|{n} steps with no Photoshop equivalent left out	{n} steg utan Photoshop-motsvarighet utelämnad|{n} steg utan Photoshop-motsvarighet utelämnad
+
+# Actions panel: set folders, dialog toggle, Insert Stop
+	Insert Stop…	Infoga stopp…
+	Save Set…	Spara uppsättning…
+	Message:	Meddelande:
+	Allow Continue	Tillåt fortsätt
+	Show dialog during playback	Visa dialog under uppspelning
+	Select an action first	Välj en åtgärd först
+	Action playback stopped	Åtgärdsuppspelningen stoppades
+	Step {step} is waiting for its dialog	Steg {step} väntar på dess dialog
+@plural	{n} action|{n} actions	{n} åtgärd|{n} åtgärder
+	Auto Add/Delete	Lägg till/ta bort automatiskt

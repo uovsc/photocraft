@@ -1,0 +1,59 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build PhotoCraft (Debug)",
+            "type": "process",
+            "command": "cargo",
+            "args": [
+                "build",
+                "-p",
+                "photocraft",
+                "-j",
+                "8"
+            ],
+            "options": {
+                "env": {
+                    "CARGO_PROFILE_DEV_DEBUG": "true"
+                }
+            },
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": [
+                "$rustc"
+            ]
+        },
+        {
+            "label": "Run PhotoCraft (Release)",
+            "type": "process",
+            "command": "cargo",
+            "args": [
+                "run",
+                "--release",
+                "-p",
+                "photocraft",
+                "-j",
+                "8"
+            ],
+            "group": "build",
+            "problemMatcher": [
+                "$rustc"
+            ]
+        },
+        {
+        "label": "linecounter",
+        "type": "process",
+        "command": "powershell",
+        "args": [
+            "-ExecutionPolicy", "Bypass",
+            "-File", "${workspaceFolder}\\.github\\skills\\count-lines\\count-lines.ps1"
+        ],
+        "options": {
+            "cwd": "${workspaceFolder}"
+        },
+        "problemMatcher": []
+        }
+    ]
+}

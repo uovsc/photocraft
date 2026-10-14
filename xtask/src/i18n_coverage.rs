@@ -574,6 +574,7 @@ mod tests {
             ("ru", "ru.tsv"),
             ("cs", "cs.tsv"),
             ("de", "de.tsv"),
+            ("sv", "sv.tsv"),
             ("pt-br", "pt-br.tsv"),
             ("it", "it.tsv"),
             ("el", "el.tsv"),
