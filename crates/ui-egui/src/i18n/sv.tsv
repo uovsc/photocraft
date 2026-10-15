@@ -45,7 +45,7 @@
 	Add beauty precomp from the AOVs	Lägg till skönhetsprekomp från AOV:erna
 	Both	Båda
 	Left	Vänster
-	Right	Rätt
+	Right	Höger
 	Open Recent	Öppna Senaste
 	Clear Recent Files	Rensa de senaste filerna
 	Remove from Recent	Ta bort från Senaste
@@ -66,7 +66,7 @@
 	Export Preferences…	Exportera inställningar…
 	Save for Web (Legacy)…	Spara för webben (legacy)…
 	Artboards to Files…	Ritytor till filer…
-	Artboards to PDF…	Rittavlor till PDF…
+	Artboards to PDF…	Ritytor till PDF…
 	Layers to Files…	Lager till filer…
 	Layer Comps to Files…	Lagerkomper till filer…
 	Color Lookup Tables…	Färguppslagstabeller…
@@ -88,7 +88,7 @@
 	Lens Correction…	Linskorrigering…
 	Merge to HDR Pro…	Slå ihop till HDR Pro…
 	Photomerge…	Photomerge…
-	Scripts	Manus
+	Scripts	Skript
 	Image Processor…	Bildprocessor…
 	Delete All Empty Layers	Ta bort alla tomma lager
 	Flatten All Layer Effects	Platta ut alla lagereffekter
@@ -113,7 +113,7 @@
 	Exit	Avsluta
 	Undo	Ångra
 	Redo	Gör om
-	Toggle Last State	Växla Sista tillstånd
+	Toggle Last State	Växla senaste tillstånd
 	Fade…	Tona ut…
 	Cut	Klipp
 	Copy	Kopiera
@@ -137,8 +137,8 @@
 	Content-Aware Scale	Innehållsmedveten skala
 	Puppet Warp	Marionettförvrängning
 	Perspective Warp	Perspektiv Warp
-	Free Transform	Gratis transformation
-	Free Transform a Copy	Omvandla en kopia gratis
+	Free Transform	Fri transformering
+	Free Transform a Copy	Fri transformering av en kopia
 	Transform	Förvandla
 	Again	Återigen
 	Transform Again on a Copy	Förvandla igen på en kopia
@@ -188,11 +188,11 @@
 	File Handling…	Filhantering…
 	Export…	Exportera…
 	Performance…	Prestanda…
-	Scratch Disks…	Skrapa skivor…
+	Scratch Disks…	Arbetsdiskar…
 	Cursors…	Markörer…
 	Transparency & Gamut…	Transparens och omfång…
 	Units & Rulers…	Enheter och linjaler…
-	Guides, Grid & Slices…	Guider, rutnät och skivor…
+	Guides, Grid & Slices…	Guider, rutnät och segment…
 	Plug-ins…	Insticksprogram…
 	Type…	Skriv…
 	Enhanced Controls…	Förbättrade kontroller…
@@ -803,7 +803,7 @@
 	Align right edges	Rikta in höger kanter
 	Aligned	Justerad
 	All Caps	Versaler
-	All Slices	Alla skivor
+	All Slices	Alla segment
 	All User Slices	Alla användarsegment
 	All shortcuts reset to PhotoCraft defaults.	Alla genvägar återställs till PhotoCrafts standardinställningar.
 	Alt	Alt
@@ -1082,7 +1082,7 @@
 	Faux Bold	Syntetisk fetstil
 	Faux Italic	Syntetisk kursiv
 	Feather	Mjuka upp
-	Fewer Points	Färre poäng
+	Fewer Points	Färre punkter
 	File Settings	Filinställningar
 	Fill	Fyll
 	Fill:	Fyll:
@@ -1117,7 +1117,7 @@
 	Foreground/Background Jitter	Jitter i förgrund/bakgrund
 	Format	Format
 	Frame from Layers…	Bildruta från lager…
-	Free	Gratis
+	Free	Fritt
 	Full Spherical	Full Sfärisk
 	Fuzziness:	Luddighet:
 	GPU	GPU
@@ -1135,7 +1135,7 @@
 	Heart	Hjärta
 	Height	Höjd
 	Height:	Höjd:
-	Hide Auto Slices	Dölj automatiska skivor
+	Hide Auto Slices	Dölj automatiska segment
 	Hide Properties	Dölj egenskaper
 	Highlight Compression	Komprimering av högdagrar
 	Highlight Priority	Prioritera högdagrar
@@ -1198,7 +1198,7 @@
 	Limits:	Gränser:
 	Linear Gradient	Linjär övertoning
 	Link layers	Länka lager
-	Link width and height	Länkens bredd och höjd
+	Link width and height	Länka bredd och höjd
 	Liquify is not open	Liquify är inte öppen
 	Load	Ladda
 	Load 3D LUT…	Ladda 3D LUT…
@@ -1328,7 +1328,7 @@
 	Pressure	Tryck
 	Pressure for Opacity	Tryck för opacitet
 	Pressure for Size	Tryck för storlek
-	Prevent auto-nesting in and out of Artboards and Frames	Förhindra automatisk kapsling in och ut av ritytor och ramar
+	Prevent auto-nesting in and out of Artboards and Frames	Förhindra automatisk nästling in och ut av ritytor och ramar
 	Preview	Förhandsgranska
 	Previous frame	Föregående bildruta
 	Previous note	Föregående anmärkning
@@ -1673,7 +1673,7 @@
 	Lasso Tool	Lassoverktyg
 	Layer Count	Antal lager
 	Layer Knocks Out Drop Shadow	Lagret slår ut slagskuggan
-	Legal	Lagligt
+	Legal	Legalt
 	Letter	Brev
 	Light	Ljus
 	Line Tool	Linjeverktyg
@@ -1764,9 +1764,9 @@
 	Shadows up to:	Skuggor upp till:
 	Shape Dynamics	Formdynamik
 	Sharpen Tool	Skärpa verktyg
-	Show Extras Options	Visa Extraalternativ
-	Slice Select Tool	Verktyg för skivval
-	Slice Tool	Skivverktyg
+	Show Extras Options	Visa extra alternativ
+	Slice Select Tool	Verktyg för segmentval
+	Slice Tool	Segmentverktyg
 	Smart Filters	Smarta filter
 	Smudge Tool	Smetningsverktyg
 	Soft	Mjuk
@@ -1774,7 +1774,7 @@
 	Source	Källa
 	Source: set	Källa: set
 	Sponge Tool	Svampverktyg
-	Spot Healing Brush Tool	Lagningspenselverktyg för punktlagning
+	Spot Healing Brush Tool	Penselverktyg för punktlagning
 	Spread	Sprid ut
 	Square, 12 x 12	Fyrkantig, 12 x 12
 	Square, 5 x 5	Fyrkantig, 5 x 5
@@ -1961,7 +1961,7 @@
 	Show font names in english	Visa teckensnittsnamn på engelska
 	Show menu colors	Visa menyfärger
 	Show only crosshair while painting	Visa endast hårkorset när du målar
-	Show slice numbers	Visa skivnummer
+	Show slice numbers	Visa segmentnummer
 	Show tooltips	Visa verktygstips
 	Enable animations	Aktivera animationer
 	Show highlight on rollover	Visa markering vid hovring
@@ -2053,14 +2053,14 @@
 	These settings aren't available in PhotoCraft yet.	Dessa inställningar är inte tillgängliga i PhotoCraft än.
 	Graphics	Grafik
 	Reset GPU Backend	Återställ GPU-backend
-	Applies at next launch.	Gäller vid nästa lansering.
+	Applies at next launch.	Gäller vid nästa start.
 	Click to sample the foreground colour  ·  {key}-click for background	Klicka för att prova förgrundsfärgen · {key}-klicka för bakgrund
 	{key}-click to set the source	{key}-klicka för att ställa in källan
 	{key} to subtract	{key} för att subtrahera
 	Clone source {n} ({key}-click with Clone Stamp to set)	Klonkälla {n} ({key}-klicka med klonstämpel för att ställa in)
 	Source: not set ({key}-click with Clone Stamp)	Källa: ej inställd ({key}-klicka med klonstämpel)
 	Pixel Layer	Pixellager
-	Type Layer	Skriv lager
+	Type Layer	Textlager
 	Shape Layer	Formlager
 	Group Layer	Grupplager
 	Fill Layer	Fyll lager
@@ -2185,10 +2185,10 @@
 	Model	Modell
 	F	F
 	Artist	Konstnär
-	Spot Color	Fläckfärg
+	Spot Color	Dekorfärg
 	Roman	Roman
 	Bold Italic	Fet kursiv
-	Justification	Motivering
+	Justification	Marginaljustering
 	Symbols	Symboler
 	Punctuation	Skiljetecken
 	Make Work Path	Gör arbetsväg
@@ -2481,7 +2481,7 @@ fontWeight	Italic	Kursiv
 	PhotoCraft — Screen Color Picker	PhotoCraft — Skärmfärgväljare
 
 	Rasterize svg groups deeper than	Rasterisera svg-grupper djupare än
-	0 turns this threshold off; SVG groups nested deeper than 100 levels are always rasterized.	0 stänger av denna tröskel; SVG-grupper kapslade djupare än 100 nivåer rastreras alltid.
+	0 turns this threshold off; SVG groups nested deeper than 100 levels are always rasterized.	0 stänger av denna tröskel; SVG-grupper nästlade djupare än 100 nivåer rastreras alltid.
 	Rule of Thirds	Tredjeregel
 	Triangle	Triangel
 	Golden Ratio	Gyllene snittet
@@ -2622,7 +2622,7 @@ cameraData	Lens	Lins
 	There is no crop size or ratio to save	Det finns ingen beskärningsstorlek eller något bildförhållande att spara
 	Scale:	Skala:
 	Snap to Origin	Fäst mot origo
-	Search settings…	Sökinställningar…
+	Search settings…	Sök inställningar…
 	No matching settings	Inga matchande inställningar
 	Loading fonts…	Läser in teckensnitt…
 	Tool	Verktyg
@@ -2692,7 +2692,7 @@ curves	Smooth	Jämn
 @plural	{n} plane|{n} planes	{n} plan|{n} plan
 @plural	{n} preset|{n} presets	{n} förinställning|{n} förinställningar
 @plural	{n} sample point removed|{n} sample points removed	Provpunkt borttagen: {n}|Provpunkter borttagna: {n}
-@plural	{n} slice|{n} slices	{n} skiva|{n} skivor
+@plural	{n} slice|{n} slices	{n} segment|{n} segment
 @plural	{n} step|{n} steps	{n} steg|{n} steg
 @plural	{warning} (+{n} more brush preset warning)|{warning} (+{n} more brush preset warnings)	{warning} (+{n} ytterligare varning för penselförinställning)|{warning} (+{n} ytterligare varningar för penselförinställningar)
 @plural	{what} with {n} warning|{what} with {n} warnings	{what} med {n} varning|{what} med {n} varningar
