@@ -213,7 +213,7 @@
 	Lab Color	Lab färg
 	Multichannel	Flerkanaligt
 	8 Bits/Channel	8 bitar/kanal
-	8 bit	8 bit
+	8 bit	8 bitar
 	Integer	Heltal
 	16 Bits/Channel	16 bitar/kanal
 	16 bit	16 bitar
@@ -2731,3 +2731,151 @@ curves	Smooth	Jämn
 	Step {step} is waiting for its dialog	Steg {step} väntar på dess dialog
 @plural	{n} action|{n} actions	{n} åtgärd|{n} åtgärder
 	Auto Add/Delete	Lägg till/ta bort automatiskt
+
+# Added in the 2026-10-15 source-catalog sync
+	A brush preset with this name already exists	En penselförinställning med det här namnet finns redan
+	A:	V:
+	Add Mask to Selection	Lägg till mask i urvalet
+	Add Shortcut	Lägg till kortkommando
+	Any	Valfritt
+	Author Title	Författare och titel
+	Background (Default)	Bakgrund (standard)
+	Based On	Baserad på
+	Bend	Böjning
+	Bundle Arrow-Key Nudges	Gruppera förflyttningar med piltangenter
+	Button Mode	Knappläge
+	Button Mode On	Knappläge aktiverat
+	Capture Brush Size in Preset	Ta med penselstorlek i förinställningen
+	Case Sensitive	Skiftlägeskänslig
+	Ccw	Moturs
+	Change Find	Ändra sökning
+	Channel Color	Kanalfärg
+	Checkerboard	Schackrutemönster
+	Chisel Hard	Hård mejsel
+	Chisel Soft	Mjuk mejsel
+	Choose a format that keeps it, such as Photoshop (PSD), or save a copy.	Välj ett format som bevarar innehållet, till exempel Photoshop (PSD), eller spara en kopia.
+	Choose Stack Mode:	Välj staplingsläge:
+	Clear Selected Guides	Rensa markerade stödlinjer
+	Click the image to add a pin; drag a pin to move it, or its ring to change its blur. Delete removes the selected pin.	Klicka på bilden för att lägga till en fästpunkt; dra fästpunkten för att flytta den eller dess ring för att ändra oskärpan. Delete tar bort den markerade fästpunkten.
+	Clip Thumbnails to Layer Bounds	Begränsa miniatyrer till lagergränser
+	Clip thumbnails to layer bounds	Begränsa miniatyrer till lagergränser
+	Cmyk	CMYK
+	Color Indicates:	Färg anger:
+	Color Sampler Tool	Färgsamplingsverktyg
+	Convert to the working space ({profile})	Konvertera till arbetsfärgrymden ({profile})
+	Copyright Url	Upphovsrätts-URL
+	Custom background color	Anpassad bakgrundsfärg
+	Cw	Medurs
+	Darken Interface	Gör gränssnittet mörkare
+	Decrease Brush Hardness	Minska penselns hårdhet
+	Decrease Brush Size	Minska penselstorlek
+	Decrease Type Size	Minska teckenstorlek
+	Decrease Type Size by 10	Minska teckenstorlek med 10
+	Delete this set	Ta bort den här uppsättningen
+	Don't also tick Mirror Image in Print Settings…: the two flips cancel out.	Markera inte även Spegelvänd bild i Utskriftsinställningar…: de två vändningarna tar ut varandra.
+	Dont Enlarge	Förstora inte
+	Drag the handles on the outline to resize and turn it, the square to round its corners, and the dots inside to set where the blur starts.	Dra i handtagen på konturen för att ändra storlek och vrida den, i fyrkanten för att runda hörnen och i punkterna inuti för att ange var oskärpan börjar.
+	Drag the handles on the outline to resize and turn it; the ring sets the blur angle.	Dra i handtagen på konturen för att ändra storlek och vrida den; ringen anger oskärpevinkeln.
+	Drag the pin to move the band, or its ring to change its blur. Drag the solid lines to widen the sharp band, the dashed lines to set the transition, and the dots to turn it.	Dra i fästpunkten för att flytta bandet eller dess ring för att ändra oskärpan. Dra i de heldragna linjerna för att göra det skarpa bandet bredare, i de streckade linjerna för att ange övergången och i punkterna för att vrida det.
+	Edit Selected Guides	Redigera markerade stödlinjer
+	Enter a name for the brush preset	Ange ett namn för penselförinställningen
+	Erase with Brush or Pencil (hold)	Radera med pensel eller penna (håll ned)
+	Export As: {name}	Exportera som: {name}
+	Fill with Background Color	Fyll med bakgrundsfärg
+	Fill with Background Color, Preserve Transparency	Fyll med bakgrundsfärg, bevara transparens
+	Fill with Foreground Color	Fyll med förgrundsfärg
+	Fill with Foreground Color, Preserve Transparency	Fyll med förgrundsfärg, bevara transparens
+	Forward	Framåt
+	Hand Tool (hold)	Handverktyg (håll ned)
+	Horizontal Distortion	Horisontell förvrängning
+	ICO is limited to 256 × 256 pixels	ICO är begränsat till 256 × 256 pixlar
+	Import Brush from Image…	Importera pensel från bild…
+	Import Brushes… (.abr or image)	Importera penslar… (.abr eller bild)
+	Include All Subfolders	Inkludera alla undermappar
+	Include Color	Inkludera färg
+	Include Tool Settings	Inkludera verktygsinställningar
+	Increase Brush Hardness	Öka penselns hårdhet
+	Increase Brush Size	Öka penselstorlek
+	Increase Type Size	Öka teckenstorlek
+	Increase Type Size by 10	Öka teckenstorlek med 10
+	Ink Characteristics	Bläckegenskaper
+	Intersect Mask with Selection	Skär masken med urvalet
+	Lighten Interface	Gör gränssnittet ljusare
+	Make Selection from Path	Skapa urval från bana
+	Mask Channel	Maskkanal
+	Nearest	Närmaste granne
+	New Set…	Ny uppsättning…
+	No pin selected	Ingen fästpunkt markerad
+	Nudge Bundle Pause (ms)	Paus för gruppering av piltangentsförflyttningar (ms)
+	Open color-less EXR as ACEScg	Öppna färglös EXR som ACEScg
+	Paper Height	Pappershöjd
+	Paper Width	Pappersbredd
+	Pattern Fill…	Mönsterfyllning…
+	PhotoCraft Defaults	PhotoCraft-standardinställningar
+	Presentation	Presentation
+	Print Settings…	Utskriftsinställningar…
+	Proof Setup…	Korrekturinställning…
+	R G B	R G B
+	R g b	R G B
+	Redrawing	Ritar om
+	Remember this choice for future images	Kom ihåg det här valet för framtida bilder
+	Remember to turn off the printer's own colour management in Print Settings…	Kom ihåg att stänga av skrivarens egen färghantering i Utskriftsinställningar…
+	Response curve	Responskurva
+	Save a list of these shortcuts as a web page	Spara en lista över dessa kortkommandon som en webbsida
+	Save the changes to this set	Spara ändringarna i den här uppsättningen
+	Save these shortcuts as a .kys file	Spara dessa kortkommandon som en .kys-fil
+	Save these shortcuts as a new set	Spara dessa kortkommandon som en ny uppsättning
+	Sent to {printer}	Skickat till {printer}
+	Set deleted.	Uppsättningen har tagits bort.
+	set in Print Settings…	ställs in under Utskriftsinställningar…
+	set name	uppsättningsnamn
+	Set saved.	Uppsättningen har sparats.
+	Set:	Uppsättning:
+	Show home recent files	Visa de senaste filerna på startsidan
+	Simulate Paper	Simulera papper
+	Solidity:	Färgstyrka:
+	Source Channel	Källkanal
+	Source Invert	Invertera källa
+	Source1 Channel	Källkanal 1
+	Source1 Invert	Invertera källa 1
+	Source2 Channel	Källkanal 2
+	Source2 Invert	Invertera källa 2
+	Space	Blanksteg
+	Starting serial	Startnummer
+	Subtract Mask from Selection	Subtrahera mask från urvalet
+	Summarize…	Sammanfatta…
+	Target Channel 3	Målkanal 3
+	Target Channel 4	Målkanal 4
+	Target Channel 5	Målkanal 5
+	Target Channel 6	Målkanal 6
+	Target Channel 7	Målkanal 7
+	Target Channel 8	Målkanal 8
+	Target Channel 9	Målkanal 9
+	Target Composite Channel	Målkanal (sammansatt)
+	Technique	Teknik
+	The document “{name}” does not have an embedded {mode} profile.	Dokumentet ”{name}” saknar en inbäddad {mode}-profil.
+	The document “{name}” has an embedded color profile that does not match the current {mode} working space.	Dokumentet ”{name}” har en inbäddad färgprofil som inte matchar den aktuella {mode}-arbetsfärgrymden.
+	There are too many sets: delete one first.	Det finns för många uppsättningar: ta bort en först.
+	Title	Titel
+	Toggle Layer Mask Overlay	Växla visning av lagermaskens överlägg
+	Turn the prompt back on with Ask On Mismatch in Edit › Color Settings.	Aktivera frågan igen med Fråga vid avvikelse under Redigera › Färginställningar.
+	Use the embedded profile ({profile})	Använd den inbäddade profilen ({profile})
+	Vertical Distortion	Vertikal förvrängning
+	W:	B:
+	Warming Filter (85)	Värmande filter (85)
+	Whole Word	Hela ordet
+	Working-cmyk	Arbets-CMYK
+	Working: {working}	Arbetsfärgrymd: {working}
+	Zoom In (hold, drag to scrub)	Zooma in (håll ned och dra för att justera)
+	Zoom Out (hold)	Zooma ut (håll ned)
+	{name} can't keep everything in this document	{name} kan inte bevara allt i det här dokumentet
+	{set} (modified)	{set} (ändrad)
+@plural	Imported {n} pattern from {file}|Imported {n} patterns from {file}	Importerade {n} mönster från {file}|Importerade {n} mönster från {file}
+	Blur Angle	Oskärpevinkel
+	Color Profile	Färgprofil
+	Content-Aware Fill	Innehållsmedveten fyllning
+	EXIF	EXIF
+	File Naming	Filnamngivning
+	Masked Areas	Maskerade områden
+	Random	Slumpa
+	Selected Areas	Markerade områden
